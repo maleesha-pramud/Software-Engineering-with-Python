@@ -188,8 +188,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "daa2d6e18b2d6f70",
+  "active": "06bfc2ed855b297d",
   "lastOpenFiles": [
+    "Phase 3 Notes/45 Security Fundamentals.md.tmp.7204.ad8683032f92",
+    "Phase 3 Notes/45 Security Fundamentals.md.tmp.7204.2d478234e281",
+    "Phase 3 Notes/45 Security Fundamentals.md.tmp.7204.60f35b053cac",
+    "Phase 3 Notes/45 Security Fundamentals.md.tmp.7204.375850ead569",
+    "Phase 3 Notes/45 Security Fundamentals.md.tmp.7204.70f2bc2d0249",
+    "Phase 3 Notes/45 Security Fundamentals.md.tmp.7204.95c1f827effa",
+    "Phase 3 Notes/45 Security Fundamentals.md.tmp.7204.36f1d182e99f",
+    "Phase 3 Notes/45 Security Fundamentals.md.tmp.7204.f94988b15d5f",
+    "Phase 3 Notes/39 Software Development Lifecycle.md.tmp.7204.12e99352fc8b",
+    "Phase 3 Notes/37 Concurrency and Parallelism.md.tmp.7204.5730f278d5ad",
+    "Phase 3 Notes/37 Concurrency and Parallelism.md.tmp.7204.2d4ba99926f9",
+    "Phase 3 Notes/Pagebound - The Running Story.md",
+    "Phase 3 Notes/Images/p3-note-loop.svg",
+    "Phase 3 Notes/Images/p3-season-map.svg",
     "Phase 2 Notes/34 Phase 2 Final Project.md",
     "Phase 3 Notes/46 OWASP Top 10.md",
     "Phase 3 Notes/47 Integration Testing.md",
@@ -214,9 +228,6 @@
     "Software Engineering Roadmap.md",
     "Phase 2 Notes/26 Object-Oriented Programming.md",
     "Phase 3 Notes/Phase 3 Glossary.md",
-    "Phase 3 Notes/Phase 3 - Start Here.md",
-    "Phase 3 Notes/53 Phase 3 Final Project.md",
-    "Phase 3 Notes/48 Docker.md.tmp.30520.98629585b718",
     "Phase 3 Notes/Images/write-cost.svg",
     "Phase 3 Notes/Images/wal.svg",
     "Phase 3 Notes/Images/vm-vs-container.svg",
@@ -224,13 +235,6 @@
     "Phase 3 Notes/Images/tx-boundaries.svg",
     "Phase 3 Notes/Images/twos-complement.svg",
     "Phase 3 Notes/Images/threat-model.svg",
-    "Phase 3 Notes/Images/thread-pool.svg",
-    "Phase 3 Notes/Images/test-pyramid.svg",
-    "Phase 3 Notes/Images/stride.svg",
-    "Phase 3 Notes/Images",
-    "Phase 3 Notes",
-    "Phase 2 Notes/Images",
-    "Phase 2 Notes",
-    "Phase 1 Notes"
+    "Phase 3 Notes/Images/thread-pool.svg"
   ]
 }
