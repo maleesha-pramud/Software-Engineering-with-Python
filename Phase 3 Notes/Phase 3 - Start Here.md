@@ -133,3 +133,5 @@ The boss check for each release is in [[Pagebound - The Running Story#Your Seaso
 Check yourself with the roadmap's [[Software Engineering Roadmap#Ready for Software Engineer|Ready for Software Engineer]] list, and read the [[Software Engineering Roadmap#Software Engineer|Software Engineer role card]].
 
 **Start here:** [[35 Computer Organization and Architecture]] →
+
+**After Phase 3:** [[Phase 4 - Start Here]] →

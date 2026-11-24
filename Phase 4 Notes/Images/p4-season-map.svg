@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="330" viewBox="0 0 820 330">
+<rect x="1" y="1" width="818" height="328" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="410.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Season 2 at Pagebound: from one app to a system you own</text>
+<line x1="17" y1="82" x2="803" y2="82" stroke="#D5DAE0" stroke-width="8" stroke-linecap="round"/>
+<line x1="17" y1="82" x2="803" y2="82" stroke="#FBFCFD" stroke-width="2" stroke-dasharray="10 8"/>
+<text xml:space="preserve" x="17" y="58" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="start" fill="#5B6672" font-weight="700">Year 2</text>
+<text xml:space="preserve" x="803" y="58" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="end" fill="#5B6672" font-weight="700">Year 3</text>
+<circle cx="80.0" cy="82" r="15" fill="#FDE9D3" stroke="#D97A1E" stroke-width="2.4"/>
+<text xml:space="preserve" x="80.0" y="86.5" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">1</text>
+<line x1="80.0" y1="97" x2="80.0" y2="112" stroke="#D97A1E" stroke-width="1.6"/>
+<rect x="17" y="112" width="126" height="190" rx="8" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="80.0" y="140" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="20" text-anchor="middle" fill="#1F2933" font-weight="700">v1.1</text>
+<text xml:space="preserve" x="80.0" y="164" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" text-anchor="middle" fill="#1F2933" font-weight="700">Clean bones</text>
+<text xml:space="preserve" x="80.0" y="182" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" text-anchor="middle" fill="#5B6672" font-weight="400">Part 1 · notes 54–56</text>
+<line x1="31" y1="196" x2="129" y2="196" stroke="#D97A1E" stroke-width="1" opacity="0.6"/>
+<text xml:space="preserve" x="80.0" y="216" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" text-anchor="middle" fill="#D97A1E" font-weight="700">BOSS CHECK</text>
+<text xml:space="preserve" x="80.0" y="238" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11.5" text-anchor="middle" fill="#1F2933" font-weight="400">Swap the database</text>
+<text xml:space="preserve" x="80.0" y="255" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11.5" text-anchor="middle" fill="#1F2933" font-weight="400">in one file</text>
+<text xml:space="preserve" x="80.0" y="288" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" text-anchor="middle" fill="#5B6672" font-weight="400">tag it on GitHub</text>
+<circle cx="212.0" cy="82" r="15" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="2.4"/>
+<text xml:space="preserve" x="212.0" y="86.5" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">2</text>
+<line x1="212.0" y1="97" x2="212.0" y2="112" stroke="#2F6FB0" stroke-width="1.6"/>
+<rect x="149" y="112" width="126" height="190" rx="8" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="212.0" y="140" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="20" text-anchor="middle" fill="#1F2933" font-weight="700">v1.2</text>
+<text xml:space="preserve" x="212.0" y="164" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" text-anchor="middle" fill="#1F2933" font-weight="700">Fast and patient</text>
+<text xml:space="preserve" x="212.0" y="182" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" text-anchor="middle" fill="#5B6672" font-weight="400">Part 2 · notes 57–58</text>
+<line x1="163" y1="196" x2="261" y2="196" stroke="#2F6FB0" stroke-width="1" opacity="0.6"/>
+<text xml:space="preserve" x="212.0" y="216" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" text-anchor="middle" fill="#2F6FB0" font-weight="700">BOSS CHECK</text>
+<text xml:space="preserve" x="212.0" y="238" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11.5" text-anchor="middle" fill="#1F2933" font-weight="400">Borrow in ~30 ms,</text>
+<text xml:space="preserve" x="212.0" y="255" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11.5" text-anchor="middle" fill="#1F2933" font-weight="400">no email lost</text>
+<text xml:space="preserve" x="212.0" y="288" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" text-anchor="middle" fill="#5B6672" font-weight="400">tag it on GitHub</text>
+<circle cx="344.0" cy="82" r="15" fill="#DDF3E4" stroke="#2E8B57" stroke-width="2.4"/>
+<text xml:space="preserve" x="344.0" y="86.5" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">3</text>
+<line x1="344.0" y1="97" x2="344.0" y2="112" stroke="#2E8B57" stroke-width="1.6"/>
+<rect x="281" y="112" width="126" height="190" rx="8" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="344.0" y="140" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="20" text-anchor="middle" fill="#1F2933" font-weight="700">v1.3</text>
+<text xml:space="preserve" x="344.0" y="164" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" text-anchor="middle" fill="#1F2933" font-weight="700">Seen and portable</text>
+<text xml:space="preserve" x="344.0" y="182" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" text-anchor="middle" fill="#5B6672" font-weight="400">Part 3 · notes 59–61</text>
+<line x1="295" y1="196" x2="393" y2="196" stroke="#2E8B57" stroke-width="1" opacity="0.6"/>
+<text xml:space="preserve" x="344.0" y="216" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" text-anchor="middle" fill="#2E8B57" font-weight="700">BOSS CHECK</text>
+<text xml:space="preserve" x="344.0" y="238" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11.5" text-anchor="middle" fill="#1F2933" font-weight="400">Find a hidden slow</text>
+<text xml:space="preserve" x="344.0" y="255" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11.5" text-anchor="middle" fill="#1F2933" font-weight="400">step from logs</text>
+<text xml:space="preserve" x="344.0" y="288" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" text-anchor="middle" fill="#5B6672" font-weight="400">tag it on GitHub</text>
+<circle cx="476.0" cy="82" r="15" fill="#EAE3F8" stroke="#7452B8" stroke-width="2.4"/>
+<text xml:space="preserve" x="476.0" y="86.5" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">4</text>
+<line x1="476.0" y1="97" x2="476.0" y2="112" stroke="#7452B8" stroke-width="1.6"/>
+<rect x="413" y="112" width="126" height="190" rx="8" fill="#EAE3F8" stroke="#7452B8" stroke-width="1.6"/>
+<text xml:space="preserve" x="476.0" y="140" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="20" text-anchor="middle" fill="#1F2933" font-weight="700">v1.4</text>
+<text xml:space="preserve" x="476.0" y="164" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" text-anchor="middle" fill="#1F2933" font-weight="700">Ready to grow</text>
+<text xml:space="preserve" x="476.0" y="182" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" text-anchor="middle" fill="#5B6672" font-weight="400">Part 4 · notes 62–64</text>
+<line x1="427" y1="196" x2="525" y2="196" stroke="#7452B8" stroke-width="1" opacity="0.6"/>
+<text xml:space="preserve" x="476.0" y="216" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" text-anchor="middle" fill="#7452B8" font-weight="700">BOSS CHECK</text>
+<text xml:space="preserve" x="476.0" y="238" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11.5" text-anchor="middle" fill="#1F2933" font-weight="400">Load-test 3 rounds,</text>
+<text xml:space="preserve" x="476.0" y="255" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11.5" text-anchor="middle" fill="#1F2933" font-weight="400">retries are safe</text>
+<text xml:space="preserve" x="476.0" y="288" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" text-anchor="middle" fill="#5B6672" font-weight="400">tag it on GitHub</text>
+<circle cx="608.0" cy="82" r="15" fill="#FFF4C2" stroke="#B58900" stroke-width="2.4"/>
+<text xml:space="preserve" x="608.0" y="86.5" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">5</text>
+<line x1="608.0" y1="97" x2="608.0" y2="112" stroke="#B58900" stroke-width="1.6"/>
+<rect x="545" y="112" width="126" height="190" rx="8" fill="#FFF4C2" stroke="#B58900" stroke-width="1.6"/>
+<text xml:space="preserve" x="608.0" y="140" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="20" text-anchor="middle" fill="#1F2933" font-weight="700">v1.5</text>
+<text xml:space="preserve" x="608.0" y="164" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" text-anchor="middle" fill="#1F2933" font-weight="700">Team and trust</text>
+<text xml:space="preserve" x="608.0" y="182" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" text-anchor="middle" fill="#5B6672" font-weight="400">Part 5 · notes 65–67</text>
+<line x1="559" y1="196" x2="657" y2="196" stroke="#B58900" stroke-width="1" opacity="0.6"/>
+<text xml:space="preserve" x="608.0" y="216" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" text-anchor="middle" fill="#B58900" font-weight="700">BOSS CHECK</text>
+<text xml:space="preserve" x="608.0" y="238" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11.5" text-anchor="middle" fill="#1F2933" font-weight="400">A design doc, an</text>
+<text xml:space="preserve" x="608.0" y="255" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11.5" text-anchor="middle" fill="#1F2933" font-weight="400">SLO, a postmortem</text>
+<text xml:space="preserve" x="608.0" y="288" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" text-anchor="middle" fill="#5B6672" font-weight="400">tag it on GitHub</text>
+<circle cx="740.0" cy="82" r="15" fill="#FBE0E0" stroke="#C94343" stroke-width="2.4"/>
+<text xml:space="preserve" x="740.0" y="86.5" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">★</text>
+<line x1="740.0" y1="97" x2="740.0" y2="112" stroke="#C94343" stroke-width="1.6"/>
+<rect x="677" y="112" width="126" height="190" rx="8" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="740.0" y="140" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="20" text-anchor="middle" fill="#1F2933" font-weight="700">v2.0</text>
+<text xml:space="preserve" x="740.0" y="164" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12.5" text-anchor="middle" fill="#1F2933" font-weight="700">You own it</text>
+<text xml:space="preserve" x="740.0" y="182" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" text-anchor="middle" fill="#5B6672" font-weight="400">Part 6 · note 68</text>
+<line x1="691" y1="196" x2="789" y2="196" stroke="#C94343" stroke-width="1" opacity="0.6"/>
+<text xml:space="preserve" x="740.0" y="216" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" text-anchor="middle" fill="#C94343" font-weight="700">BOSS CHECK</text>
+<text xml:space="preserve" x="740.0" y="238" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11.5" text-anchor="middle" fill="#1F2933" font-weight="400">One command says</text>
+<text xml:space="preserve" x="740.0" y="255" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11.5" text-anchor="middle" fill="#1F2933" font-weight="400">PASS: ship it</text>
+<text xml:space="preserve" x="740.0" y="288" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" text-anchor="middle" fill="#5B6672" font-weight="400">tag it on GitHub</text>
+</svg>

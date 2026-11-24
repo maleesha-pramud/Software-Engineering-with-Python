@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="330" viewBox="0 0 820 330">
+<rect x="1" y="1" width="818" height="328" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="410.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Before and after: one tangled file, or three layers with one job each</text>
+<rect x="30" y="70" width="300" height="200" rx="8" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="180.0" y="156.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">app.py  (one big file)</text>
+<text xml:space="preserve" x="180.0" y="174.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="400">HTTP + rules + SQL + email</text>
+<text xml:space="preserve" x="180.0" y="192.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="400">all mixed in every handler</text>
+<text xml:space="preserve" x="180" y="300" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672" font-weight="400">Change the database? Touch everything.</text>
+<rect x="470" y="62" width="250" height="56" rx="8" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="595.0" y="85.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">Web layer</text>
+<text xml:space="preserve" x="595.0" y="103.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="400">HTTP in, HTTP out</text>
+<rect x="470" y="138" width="250" height="56" rx="8" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="595.0" y="161.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">Service layer</text>
+<text xml:space="preserve" x="595.0" y="179.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="400">The lending rules</text>
+<rect x="470" y="214" width="250" height="56" rx="8" fill="#EAE3F8" stroke="#7452B8" stroke-width="1.6"/>
+<text xml:space="preserve" x="595.0" y="237.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">Data layer</text>
+<text xml:space="preserve" x="595.0" y="255.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="400">SQL lives only here</text>
+<line x1="595" y1="118" x2="595" y2="138" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="595,138 591.5,129.7 598.5,129.7" fill="#5B6672"/>
+<line x1="595" y1="194" x2="595" y2="214" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="595,214 591.5,205.7 598.5,205.7" fill="#5B6672"/>
+<text xml:space="preserve" x="595" y="300" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672" font-weight="400">Change the database? Touch one file.</text>
+<line x1="340" y1="170" x2="455" y2="170" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="455,170 446.7,173.5 446.7,166.5" fill="#5B6672"/>
+<text xml:space="preserve" x="398" y="160" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672" font-weight="700">split</text>
+</svg>

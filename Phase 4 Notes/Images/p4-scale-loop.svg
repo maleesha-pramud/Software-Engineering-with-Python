@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="300" viewBox="0 0 820 300">
+<rect x="1" y="1" width="818" height="298" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="410.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Scaling is a loop: measure, find the top bottleneck, fix one thing, measure again</text>
+<rect x="30" y="80" width="165" height="100" rx="8" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="112.5" y="116.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">1  Measure</text>
+<text xml:space="preserve" x="112.5" y="134.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="400">load test + logs</text>
+<text xml:space="preserve" x="112.5" y="152.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="400">write numbers down</text>
+<line x1="195" y1="130" x2="224" y2="130" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="224,130 215.7,133.5 215.7,126.5" fill="#5B6672"/>
+<rect x="225" y="80" width="165" height="100" rx="8" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="307.5" y="116.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">2  Find</text>
+<text xml:space="preserve" x="307.5" y="134.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="400">the slowest step</text>
+<text xml:space="preserve" x="307.5" y="152.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="400">not the one you guess</text>
+<line x1="390" y1="130" x2="419" y2="130" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="419,130 410.7,133.5 410.7,126.5" fill="#5B6672"/>
+<rect x="420" y="80" width="165" height="100" rx="8" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="502.5" y="116.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">3  Fix one thing</text>
+<text xml:space="preserve" x="502.5" y="134.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="400">one change only</text>
+<text xml:space="preserve" x="502.5" y="152.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="400">so you know what helped</text>
+<line x1="585" y1="130" x2="614" y2="130" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="614,130 605.7,133.5 605.7,126.5" fill="#5B6672"/>
+<rect x="615" y="80" width="165" height="100" rx="8" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="697.5" y="116.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">4  Measure again</text>
+<text xml:space="preserve" x="697.5" y="134.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="400">did it help? by how much?</text>
+<text xml:space="preserve" x="697.5" y="152.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="400">what is slowest now?</text>
+<line x1="700" y1="182" x2="700" y2="218" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="700,218 696.5,209.7 703.5,209.7" fill="#5B6672"/>
+<line x1="700" y1="218" x2="112" y2="218" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="112,218 120.3,214.5 120.3,221.5" fill="#5B6672"/>
+<line x1="112" y1="218" x2="112" y2="184" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="112,184 115.5,192.3 108.5,192.3" fill="#5B6672"/>
+<text xml:space="preserve" x="410.0" y="254" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672" font-weight="400">Stop when you meet your goal. More speed than you need is wasted effort.</text>
+</svg>

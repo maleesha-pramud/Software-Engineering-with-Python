@@ -94,6 +94,7 @@ The sections below are grouped by subject for reference. **This is the order to 
 > [[#Computer Organization and Architecture]] → [[#Operating Systems]] → [[#Concurrency and Parallelism]] → [[#Memory Management]] → [[#Software Development Lifecycle]] → [[#Code Reviews]] → [[#Refactoring]] → [[#SOLID Principles]] → [[#Design Patterns]] → [[#API Design]] → [[#Security Fundamentals]] → [[#OWASP Top 10]] → [[#Integration Testing]] → [[#Docker]] → [[#Continuous Integration and Delivery]] → [[#Database Design]] → [[#Indexing]] → [[#Transactions and ACID]]
 
 > [!note] Phase 4: Own systems (about 2 to 3 years), target Mid-Level to Senior
+> **Study notes:** [[Phase 4 - Start Here]]
 > [[#Layered Architecture]] → [[#Clean Architecture]] → [[#Domain-Driven Design]] → [[#Caching]] → [[#Message Queues]] → [[#Observability]] → [[#Cloud Computing]] → [[#Infrastructure as Code]] → [[#Scalability]] → [[#Distributed Computing]] → [[#System Design]] → [[#Technical Communication]] → [[#Mentoring]] → [[#System Ownership]]
 
 > [!note] Phase 5: Multiply others (ongoing), target Senior and beyond
@@ -1180,6 +1181,7 @@ Design is choosing where complexity lives. Learn the principles first, since the
 - **Exercise:** Build an API with clear layers, then swap the data store and count the files changed.
 - **Mastery:** You can explain where any new piece of logic belongs, and why.
 - **Prereqs:** [[#Object-Oriented Design]] → **Next:** [[#Clean Architecture]]
+- **Study notes:** [[54 Layered Architecture]]
 
 #### Clean Architecture
 #advanced · Know: Software Engineer · Apply: Mid-Level · Decide: Senior
@@ -1194,6 +1196,7 @@ Design is choosing where complexity lives. Learn the principles first, since the
 - **Exercise:** Refactor a small app so its domain code imports nothing from the framework.
 - **Mastery:** You can say when this structure earns its cost, and when it doesn't.
 - **Prereqs:** [[#Layered Architecture]], [[#SOLID Principles]] → **Next:** [[#Hexagonal Architecture]], [[#Domain-Driven Design]]
+- **Study notes:** [[55 Clean Architecture]]
 
 #### Hexagonal Architecture
 #advanced · Know: Software Engineer · Apply: Mid-Level · Decide: Senior
@@ -1223,6 +1226,7 @@ Design is choosing where complexity lives. Learn the principles first, since the
 - **Exercise:** Model an e-commerce or insurance domain and identify its bounded contexts.
 - **Mastery:** Your context boundaries reduce cross-team coupling in practice.
 - **Prereqs:** [[#Object-Oriented Design]], [[#Requirements Engineering]] → **Next:** [[#Microservices]], [[#Event-Driven Architecture]]
+- **Study notes:** [[56 Domain-Driven Design]]
 
 #### Monolithic Architecture
 #essential · Know: Junior · Apply: Software Engineer · Decide: Senior
@@ -1309,6 +1313,7 @@ Design is choosing where complexity lives. Learn the principles first, since the
 - **Exercise:** Load-test an app, fix the top bottleneck, repeat three times, and record each change.
 - **Mastery:** You can predict what breaks first at ten times today's load, and be right.
 - **Prereqs:** [[#Caching]], [[#Load Balancing]] → **Next:** [[#System Design]], [[#Sharding]]
+- **Study notes:** [[62 Scalability]]
 
 #### Architectural Decision-Making
 #advanced · Know: Mid-Level · Apply: Senior · Decide: Staff
@@ -1629,6 +1634,7 @@ Design is choosing where complexity lives. Learn the principles first, since the
 - **Exercise:** Build an email service via queue, then kill consumers mid-work and check results.
 - **Mastery:** You can select delivery semantics for a use case and implement them.
 - **Prereqs:** [[#Background Jobs]] → **Next:** [[#Message Brokers]], [[#Event-Driven Architecture]]
+- **Study notes:** [[58 Message Queues]]
 
 #### File Handling
 #important · Know: Junior · Apply: Software Engineer · Decide: Mid-Level
@@ -2041,6 +2047,7 @@ Data usually outlives code. Mistakes here tend to be the most expensive and hard
 - **Exercise:** Add Redis caching to an API, measure hit rate, and handle stampedes and stale data.
 - **Mastery:** You can state how stale your cache may get, and what happens when it goes down.
 - **Prereqs:** [[#Key-Value Databases]], [[#Memory Hierarchy]] → **Next:** [[#CDNs]], [[#Scalability]]
+- **Study notes:** [[57 Caching]]
 
 #### Database Replication
 #advanced · Know: Software Engineer · Apply: Mid-Level · Decide: Senior
@@ -2815,6 +2822,7 @@ DevOps is a practice, not a job description. Teams that build software should un
 - **Exercise:** Deploy a real app on one cloud with a database, CDN, and a budget alarm.
 - **Mastery:** You can estimate your system's monthly cost and reduce it.
 - **Prereqs:** [[#Linux]], [[#Networking Fundamentals]] → **Next:** [[#AWS, Azure and GCP]], [[#Infrastructure as Code]]
+- **Study notes:** [[60 Cloud Computing]]
 
 #### AWS, Azure and GCP
 #important · Know: Junior · Apply: Software Engineer · Decide: Senior
@@ -2848,6 +2856,7 @@ DevOps is a practice, not a job description. Teams that build software should un
 - **Exercise:** Provision a full environment with Terraform, destroy it, and recreate it unchanged.
 - **Mastery:** You can recreate an environment from code alone.
 - **Prereqs:** [[#Cloud Computing]] → **Next:** [[#Disaster Recovery]], [[#DevOps and Platform Engineering Path]]
+- **Study notes:** [[61 Infrastructure as Code]]
 
 ### Operations
 
@@ -2898,6 +2907,7 @@ DevOps is a practice, not a job description. Teams that build software should un
 - **Exercise:** Instrument three services with OpenTelemetry, then find an injected latency fault.
 - **Mastery:** You can debug an unfamiliar failure without shipping new code.
 - **Prereqs:** [[#Monitoring]], [[#Logging]] → **Next:** [[#Site Reliability Engineering Path]]
+- **Study notes:** [[59 Observability]]
 
 #### High Availability
 #advanced · Know: Software Engineer · Apply: Mid-Level · Decide: Senior
@@ -3241,6 +3251,7 @@ Everything fails eventually, and at scale it's always failing somewhere. Read [D
 - **Exercise:** Complete the [Gossip Glomers](https://fly.io/dist-sys/) challenges.
 - **Mastery:** You can spot partial-failure bugs in a design review.
 - **Prereqs:** [[#Networking Fundamentals]], [[#Concurrency and Parallelism]] → **Next:** [[#CAP Theorem]], [[#Fault Tolerance]]
+- **Study notes:** [[63 Distributed Computing]]
 
 #### CAP Theorem
 #important · Know: Software Engineer · Apply: Mid-Level · Decide: Senior
@@ -3403,6 +3414,7 @@ Everything fails eventually, and at scale it's always failing somewhere. Read [D
 - **Exercise:** Design a URL shortener, chat app, news feed, ride-sharing service and payment system. Implement the core of at least one.
 - **Mastery:** You can design a realistic system in 45 minutes, and defend each choice against pushback.
 - **Prereqs:** [[#Scalability]], [[#Caching]], [[#Database Replication]], [[#Message Queues]] → **Next:** [[#Architectural Decision-Making]]
+- **Study notes:** [[64 System Design]]
 
 ---
 
@@ -3757,6 +3769,7 @@ Whatever your path, keep [[#Unit Testing]], [[#Integration Testing]], [[#Code Re
 - **Exercise:** Write a design doc and get feedback. Explain it to a non-engineer in two minutes.
 - **Mastery:** People act correctly on your messages without any follow-up questions.
 - **Prereqs:** None → **Next:** [[#Documentation]], [[#Technical Decision-Making]]
+- **Study notes:** [[65 Technical Communication]]
 
 #### Critical Thinking
 #essential · Know: Junior · Apply: Software Engineer · Decide: Mid-Level
@@ -3820,6 +3833,7 @@ Whatever your path, keep [[#Unit Testing]], [[#Integration Testing]], [[#Code Re
 - **Exercise:** Mentor a junior or an open-source newcomer for three months, with goals.
 - **Mastery:** Your mentees measurably grow and become more independent.
 - **Prereqs:** [[#Code Reviews]] → **Next:** [[#Code Review Leadership]], [[#Engineering Management]]
+- **Study notes:** [[66 Mentoring]]
 
 #### Code Review Leadership
 #important · Know: Mid-Level · Apply: Senior · Decide: Senior
@@ -3884,6 +3898,7 @@ Whatever your path, keep [[#Unit Testing]], [[#Integration Testing]], [[#Code Re
 - **Exercise:** Take on a neglected system, set SLOs and improve them over a quarter.
 - **Mastery:** Your system's reliability and maintainability improve steadily, and your successors can take it over easily.
 - **Prereqs:** [[#Observability]], [[#Documentation]] → **Next:** [[#Strategic Thinking]]
+- **Study notes:** [[67 System Ownership]]
 
 ### Leadership and Strategy
 

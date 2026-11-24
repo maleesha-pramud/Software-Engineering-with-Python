@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="290" viewBox="0 0 820 290">
+<rect x="1" y="1" width="818" height="288" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="410.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Three signals: logs tell the story, metrics show the shape, traces show the path</text>
+<rect x="30" y="66" width="240" height="150" rx="8" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="150.0" y="118.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">Logs</text>
+<text xml:space="preserve" x="150.0" y="136.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="400">One JSON line per event</text>
+<text xml:space="preserve" x="150.0" y="154.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="400">request_id on every line</text>
+<text xml:space="preserve" x="150.0" y="172.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="400">Answers: what happened?</text>
+<rect x="292" y="66" width="240" height="150" rx="8" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="412.0" y="118.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">Metrics</text>
+<text xml:space="preserve" x="412.0" y="136.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="400">Numbers over time</text>
+<text xml:space="preserve" x="412.0" y="154.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="400">counts, averages, max</text>
+<text xml:space="preserve" x="412.0" y="172.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="400">Answers: how bad, how often?</text>
+<rect x="554" y="66" width="240" height="150" rx="8" fill="#EAE3F8" stroke="#7452B8" stroke-width="1.6"/>
+<text xml:space="preserve" x="674.0" y="118.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">Traces</text>
+<text xml:space="preserve" x="674.0" y="136.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="400">One request, step by step</text>
+<text xml:space="preserve" x="674.0" y="154.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="400">the same id follows it</text>
+<text xml:space="preserve" x="674.0" y="172.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="400">Answers: where did time go?</text>
+<text xml:space="preserve" x="410.0" y="250" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672" font-weight="400">In Pagebound: server.log, GET /metrics, and the request_id you search for.</text>
+</svg>
