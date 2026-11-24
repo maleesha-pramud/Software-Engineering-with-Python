@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="390" viewBox="0 0 700 390">
+<rect x="1" y="1" width="698" height="388" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="350.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">How a running program&#x27;s memory is laid out</text>
+<rect x="180" y="62" width="260" height="56" rx="6" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="310.0" y="86.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Stack</text>
+<text xml:space="preserve" x="310.0" y="105.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">local variables, function calls</text>
+<rect x="180" y="124" width="260" height="56" rx="6" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="310.0" y="156.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">free space</text>
+<rect x="180" y="184" width="260" height="56" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="310.0" y="208.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Heap</text>
+<text xml:space="preserve" x="310.0" y="227.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">malloc, objects, lists</text>
+<rect x="180" y="246" width="260" height="56" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="310.0" y="270.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Globals</text>
+<text xml:space="preserve" x="310.0" y="289.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">global data</text>
+<rect x="180" y="304" width="260" height="56" rx="6" fill="#EAE3F8" stroke="#7452B8" stroke-width="1.6"/>
+<text xml:space="preserve" x="310.0" y="328.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Code</text>
+<text xml:space="preserve" x="310.0" y="347.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">your compiled instructions</text>
+<line x1="205" y1="118" x2="205" y2="150" stroke="#D97A1E" stroke-width="2.6"/>
+<polygon points="205.0,150.0 201.1,141.9 208.9,141.9" fill="#D97A1E"/>
+<line x1="205" y1="184" x2="205" y2="158" stroke="#2F6FB0" stroke-width="2.6"/>
+<polygon points="205.0,158.0 208.9,166.1 201.1,166.1" fill="#2F6FB0"/>
+<text xml:space="preserve" x="455" y="90" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="start" fill="#5B6672">Automatic: freed when</text>
+<text xml:space="preserve" x="455" y="107" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="start" fill="#5B6672">the function returns</text>
+<text xml:space="preserve" x="455" y="208" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="start" fill="#5B6672">Manual or GC: lives until</text>
+<text xml:space="preserve" x="455" y="225" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="start" fill="#5B6672">it&#x27;s freed</text>
+<text xml:space="preserve" x="165" y="72" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="end" fill="#5B6672">high addresses</text>
+<text xml:space="preserve" x="165" y="355" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="end" fill="#5B6672">low addresses</text>
+</svg>

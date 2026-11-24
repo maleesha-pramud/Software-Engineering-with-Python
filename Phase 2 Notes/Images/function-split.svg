@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="250" viewBox="0 0 740 250">
+<rect x="1" y="1" width="738" height="248" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="370.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Clean code: one long function becomes small named steps</text>
+<rect x="40" y="60" width="240" height="170" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="160" y="86" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">process_order()</text>
+<text xml:space="preserve" x="160" y="112" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">check items...</text>
+<text xml:space="preserve" x="160" y="134" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">work out prices...</text>
+<text xml:space="preserve" x="160" y="156" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">apply discount...</text>
+<text xml:space="preserve" x="160" y="178" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">take payment...</text>
+<text xml:space="preserve" x="160" y="200" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">send email... (80 lines)</text>
+<line x1="285" y1="145" x2="365" y2="145" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="365.0,145.0 356.9,148.9 356.9,141.1" fill="#5B6672"/>
+<rect x="370" y="60" width="330" height="170" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="535" y="86" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">process_order()</text>
+<text xml:space="preserve" x="535" y="118" font-family="Consolas,Menlo,monospace" font-size="13" text-anchor="middle" fill="#1F2933">validate_items(order)</text>
+<text xml:space="preserve" x="535" y="144" font-family="Consolas,Menlo,monospace" font-size="13" text-anchor="middle" fill="#1F2933">total = calculate_total(order)</text>
+<text xml:space="preserve" x="535" y="170" font-family="Consolas,Menlo,monospace" font-size="13" text-anchor="middle" fill="#1F2933">charge_customer(order, total)</text>
+<text xml:space="preserve" x="535" y="196" font-family="Consolas,Menlo,monospace" font-size="13" text-anchor="middle" fill="#1F2933">send_receipt(order)</text>
+</svg>

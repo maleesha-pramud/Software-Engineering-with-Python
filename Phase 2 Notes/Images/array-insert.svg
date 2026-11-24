@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="220" viewBox="0 0 640 220">
+<rect x="1" y="1" width="638" height="218" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="320.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Inserting at the front shifts everything</text>
+<text xml:space="preserve" x="30" y="80" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="start" fill="#5B6672">Before</text>
+<rect x="90" y="56" width="80" height="42" rx="2" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="130.0" y="82.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">B</text>
+<rect x="170" y="56" width="80" height="42" rx="2" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="210.0" y="82.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">C</text>
+<rect x="250" y="56" width="80" height="42" rx="2" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="290.0" y="82.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">D</text>
+<rect x="330" y="56" width="80" height="42" rx="2" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="370.0" y="82.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">E</text>
+<rect x="410" y="56" width="80" height="42" rx="2" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="450.0" y="82.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700"></text>
+<line x1="370" y1="100" x2="448" y2="135" stroke="#D97A1E" stroke-width="1.8"/>
+<polygon points="448.0,135.0 439.0,135.3 442.2,128.1" fill="#D97A1E"/>
+<line x1="290" y1="100" x2="368" y2="135" stroke="#D97A1E" stroke-width="1.8"/>
+<polygon points="368.0,135.0 359.0,135.3 362.2,128.1" fill="#D97A1E"/>
+<line x1="210" y1="100" x2="288" y2="135" stroke="#D97A1E" stroke-width="1.8"/>
+<polygon points="288.0,135.0 279.0,135.3 282.2,128.1" fill="#D97A1E"/>
+<line x1="130" y1="100" x2="208" y2="135" stroke="#D97A1E" stroke-width="1.8"/>
+<polygon points="208.0,135.0 199.0,135.3 202.2,128.1" fill="#D97A1E"/>
+<text xml:space="preserve" x="30" y="165" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="start" fill="#5B6672">After</text>
+<rect x="90" y="140" width="80" height="42" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="130.0" y="166.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">A</text>
+<rect x="170" y="140" width="80" height="42" rx="2" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="210.0" y="166.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">B</text>
+<rect x="250" y="140" width="80" height="42" rx="2" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="290.0" y="166.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">C</text>
+<rect x="330" y="140" width="80" height="42" rx="2" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="370.0" y="166.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">D</text>
+<rect x="410" y="140" width="80" height="42" rx="2" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="450.0" y="166.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">E</text>
+<text xml:space="preserve" x="320" y="208" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933">Every item moved one box to the right: O(n) work.</text>
+</svg>

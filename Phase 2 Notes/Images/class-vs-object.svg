@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="270" viewBox="0 0 760 270">
+<rect x="1" y="1" width="758" height="268" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="380.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">A class is the blueprint. Objects are the houses built from it.</text>
+<rect x="40" y="70" width="220" height="170" rx="6" fill="#EAE3F8" stroke="#7452B8" stroke-width="1.6"/>
+<text xml:space="preserve" x="150" y="98" font-family="Consolas,Menlo,monospace" font-size="16" text-anchor="middle" fill="#1F2933" font-weight="700">class Dog</text>
+<line x1="55" y1="110" x2="245" y2="110" stroke="#7452B8" stroke-width="1.8"/>
+<text xml:space="preserve" x="150" y="138" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="middle" fill="#1F2933">name</text>
+<text xml:space="preserve" x="150" y="166" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="middle" fill="#1F2933">age</text>
+<text xml:space="preserve" x="150" y="194" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="middle" fill="#1F2933">bark()</text>
+<line x1="260" y1="155" x2="470" y2="88" stroke="#5B6672" stroke-width="1.8" stroke-dasharray="5 4"/>
+<polygon points="470.0,88.0 463.5,94.2 461.1,86.7" fill="#5B6672"/>
+<rect x="470" y="60" width="240" height="56" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="590.0" y="92.55" font-family="Consolas,Menlo,monospace" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">name=&quot;Rex&quot;, age=3</text>
+<line x1="260" y1="155" x2="470" y2="154" stroke="#5B6672" stroke-width="1.8" stroke-dasharray="5 4"/>
+<polygon points="470.0,154.0 461.9,158.0 461.9,150.1" fill="#5B6672"/>
+<rect x="470" y="126" width="240" height="56" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="590.0" y="158.55" font-family="Consolas,Menlo,monospace" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">name=&quot;Bella&quot;, age=5</text>
+<line x1="260" y1="155" x2="470" y2="220" stroke="#5B6672" stroke-width="1.8" stroke-dasharray="5 4"/>
+<polygon points="470.0,220.0 461.1,221.3 463.4,213.9" fill="#5B6672"/>
+<rect x="470" y="192" width="240" height="56" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="590.0" y="224.55" font-family="Consolas,Menlo,monospace" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">name=&quot;Max&quot;, age=1</text>
+<text xml:space="preserve" x="350" y="255" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">Same shape. Different data.</text>
+</svg>

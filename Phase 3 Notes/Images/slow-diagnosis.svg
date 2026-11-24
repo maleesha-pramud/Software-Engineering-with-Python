@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="200" viewBox="0 0 760 200">
+<rect x="1" y="1" width="758" height="198" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="380.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Why is it slow? Four resources, four tools</text>
+<rect x="28" y="66" width="168" height="100" rx="6" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="112.0" y="113.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">CPU</text>
+<text xml:space="preserve" x="112.0" y="131.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">top: usage near 100%</text>
+<rect x="208" y="66" width="168" height="100" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="292.0" y="113.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">Memory</text>
+<text xml:space="preserve" x="292.0" y="131.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">free -h: swapping</text>
+<rect x="388" y="66" width="168" height="100" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="472.0" y="113.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">Disk</text>
+<text xml:space="preserve" x="472.0" y="131.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">iostat: high wait</text>
+<rect x="568" y="66" width="168" height="100" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="652.0" y="113.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">Network</text>
+<text xml:space="preserve" x="652.0" y="131.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">ping, ss: latency</text>
+</svg>

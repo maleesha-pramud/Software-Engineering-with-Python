@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "42d555ef41ed272a",
+    "type": "split",
+    "children": [
+      {
+        "id": "045eb4ef4ac15166",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "daa2d6e18b2d6f70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phase 2 Notes/20 Trees and Heaps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20 Trees and Heaps"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e905c9c35234bb14",
+    "type": "split",
+    "children": [
+      {
+        "id": "280b458c7f2ccdad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06bfc2ed855b297d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a00a3353bb3dfe64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a517d6363cc82882",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "130a2209fa1ffd7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "adc4defbefbaa250",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a489d2f8c286022",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Phase 2 Notes/33 Choose Your Delivery Area.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a6e3db91861a573f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Software Engineering Roadmap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "adccdb47cd7c9064",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5c1f7806bf38a572",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "57391e991895c7df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Software Engineering Roadmap.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "daa2d6e18b2d6f70",
+  "lastOpenFiles": [
+    "Phase 2 Notes/34 Phase 2 Final Project.md",
+    "Phase 3 Notes/46 OWASP Top 10.md",
+    "Phase 3 Notes/47 Integration Testing.md",
+    "Phase 1 Notes/12 Mathematical Logic.md",
+    "Phase 1 Notes/11 Unit Testing Basics.md",
+    "Phase 1 Notes/10 Debugging.md",
+    "Phase 1 Notes/09 Git Basics.md",
+    "Phase 1 Notes/08 Linux Basics.md",
+    "Phase 1 Notes/07 Problem-Solving Techniques.md",
+    "Phase 1 Notes/06 Files, Errors and Modules.md",
+    "Phase 1 Notes/03 Conditions and Loops.md",
+    "Phase 1 Notes/01 Computational Thinking.md",
+    "Phase 1 Notes/02 Variables, Types and Expressions.md",
+    "Phase 3 Notes/41 Refactoring.md",
+    "Phase 3 Notes/40 Code Reviews.md",
+    "Phase 2 Notes/25 Graph Algorithms.md",
+    "Phase 3 Notes/44 API Design.md",
+    "Phase 3 Notes/43 Design Patterns.md",
+    "Phase 3 Notes/42 SOLID Principles.md",
+    "Phase 2 Notes/23 Algorithm Patterns.md",
+    "Phase 2 Notes/33 Choose Your Delivery Area.md",
+    "Software Engineering Roadmap.md",
+    "Phase 2 Notes/26 Object-Oriented Programming.md",
+    "Phase 3 Notes/Phase 3 Glossary.md",
+    "Phase 3 Notes/Phase 3 - Start Here.md",
+    "Phase 3 Notes/53 Phase 3 Final Project.md",
+    "Phase 3 Notes/48 Docker.md.tmp.30520.98629585b718",
+    "Phase 3 Notes/Images/write-cost.svg",
+    "Phase 3 Notes/Images/wal.svg",
+    "Phase 3 Notes/Images/vm-vs-container.svg",
+    "Phase 3 Notes/Images/virtual-memory.svg",
+    "Phase 3 Notes/Images/tx-boundaries.svg",
+    "Phase 3 Notes/Images/twos-complement.svg",
+    "Phase 3 Notes/Images/threat-model.svg",
+    "Phase 3 Notes/Images/thread-pool.svg",
+    "Phase 3 Notes/Images/test-pyramid.svg",
+    "Phase 3 Notes/Images/stride.svg",
+    "Phase 3 Notes/Images",
+    "Phase 3 Notes",
+    "Phase 2 Notes/Images",
+    "Phase 2 Notes",
+    "Phase 1 Notes"
+  ]
+}

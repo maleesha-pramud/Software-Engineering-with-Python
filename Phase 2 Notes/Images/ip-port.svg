@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="200" viewBox="0 0 720 200">
+<rect x="1" y="1" width="718" height="198" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="360.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">IP address finds the building. Port finds the door.</text>
+<rect x="50" y="70" width="240" height="100" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="170" y="96" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">Server</text>
+<text xml:space="preserve" x="170" y="124" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="middle" fill="#1F2933">IP 203.0.113.10</text>
+<line x1="290" y1="120" x2="400" y2="76" stroke="#5B6672" stroke-width="1.8" stroke-dasharray="5 4"/>
+<polygon points="400.0,76.0 393.9,82.6 391.0,75.4" fill="#5B6672"/>
+<rect x="400" y="58" width="90" height="36" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="445.0" y="80.9" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">:80</text>
+<text xml:space="preserve" x="510" y="81" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="start" fill="#1F2933">HTTP</text>
+<line x1="290" y1="120" x2="400" y2="118" stroke="#5B6672" stroke-width="1.8" stroke-dasharray="5 4"/>
+<polygon points="400.0,118.0 392.0,122.1 391.8,114.2" fill="#5B6672"/>
+<rect x="400" y="100" width="90" height="36" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="445.0" y="122.9" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">:443</text>
+<text xml:space="preserve" x="510" y="123" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="start" fill="#1F2933">HTTPS</text>
+<line x1="290" y1="120" x2="400" y2="160" stroke="#5B6672" stroke-width="1.8" stroke-dasharray="5 4"/>
+<polygon points="400.0,160.0 391.0,160.9 393.7,153.6" fill="#5B6672"/>
+<rect x="400" y="142" width="90" height="36" rx="6" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="445.0" y="164.9" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">:22</text>
+<text xml:space="preserve" x="510" y="165" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="start" fill="#1F2933">SSH</text>
+</svg>

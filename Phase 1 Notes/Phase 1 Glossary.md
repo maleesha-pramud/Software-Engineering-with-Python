@@ -1,0 +1,106 @@
+---
+title: Phase 1 Glossary
+tags: [phase-1, reference]
+aliases: [Glossary]
+---
+
+# Phase 1 Glossary
+
+[[Phase 1 - Start Here|Home]]
+
+Simple meanings for the words used in Phase 1. Each one links to the note that explains it.
+
+## A to C
+
+- **Abstraction:** keeping only the details that matter. [[01 Computational Thinking#3. Abstraction|More]]
+- **Algorithm:** exact steps that solve a problem. [[01 Computational Thinking#4. Algorithms|More]]
+- **Argument:** the real value you pass to a function. [[04 Functions and Scope#Parameters - Giving a Function Input|More]]
+- **Assert:** a check that something is true, used in tests. [[11 Unit Testing Basics#Your First Test|More]]
+- **Base case:** the simple case that stops recursion. [[04 Functions and Scope#Recursion|More]]
+- **Bash:** the most common Linux shell. [[08 Linux Basics#The Big Idea|More]]
+- **Binary:** counting with only 0 and 1. [[01 Computational Thinking#How Computers Store Everything|More]]
+- **Binary search:** finding something by cutting the options in half each time. [[07 Problem-Solving Techniques#Divide and Conquer|More]]
+- **Bit:** a single 0 or 1. [[01 Computational Thinking#How Computers Store Everything|More]]
+- **Bitwise operator:** an operation on the individual bits of a number. [[13 Boolean Algebra#Bits and Bitwise Operations|More]]
+- **Boolean:** a value that's true or false. [[02 Variables, Types and Expressions#Types - Different Kinds of Data|More]]
+- **Boundary case:** a value right at a limit, such as 18 for an adult check. [[11 Unit Testing Basics#What Should You Test?|More]]
+- **Branch:** a separate line of work in Git. [[09 Git Basics#Branches - Safe Places to Try Things|More]]
+- **Breakpoint:** a place where the debugger pauses your program. [[10 Debugging#Using a Debugger|More]]
+- **Brute force:** the simple approach of trying everything. [[07 Problem-Solving Techniques#Brute Force First, Then Improve|More]]
+- **Bug:** when a program does something you didn't expect. [[10 Debugging#The Big Idea|More]]
+- **Byte:** eight bits. [[01 Computational Thinking#How Computers Store Everything|More]]
+- **Commit:** a saved point in Git's history. [[09 Git Basics#The Three Places|More]]
+- **Condition:** a check that is true or false. [[03 Conditions and Loops#Making Choices with if|More]]
+- **Conflict:** when Git can't merge two changes to the same line. [[09 Git Basics#Merge Conflicts|More]]
+- **Contrapositive:** "if not q, then not p", which has the same meaning as "if p, then q". [[12 Mathematical Logic#The Contrapositive|More]]
+
+## D to I
+
+- **Debugger:** a tool that pauses your code so you can look inside. [[10 Debugging#Using a Debugger|More]]
+- **Decomposition:** breaking a big problem into small ones. [[01 Computational Thinking#1. Decomposition|More]]
+- **De Morgan's laws:** rules for flipping AND and OR conditions. [[13 Boolean Algebra#De Morgan's Laws|More]]
+- **Dictionary:** data stored as key and value pairs. [[05 Lists, Strings and Dictionaries#Dictionaries|More]]
+- **Edge case:** an unusual input at the limits, such as an empty list. [[07 Problem-Solving Techniques#Work Small Examples by Hand|More]]
+- **Exception:** the error object Python creates when something goes wrong. [[06 Files, Errors and Modules#Errors and Exceptions|More]]
+- **Expression:** code that Python works out to get a value. [[02 Variables, Types and Expressions#Expressions - Calculations|More]]
+- **f-string:** text with values placed inside. [[02 Variables, Types and Expressions#Printing Nicely with f-strings|More]]
+- **Function:** a named block of code that does one job. [[04 Functions and Scope#Writing a Function|More]]
+- **Git:** a tool that saves versions of your work. [[09 Git Basics#The Big Idea|More]]
+- **GitHub:** a website that stores Git projects online. [[09 Git Basics#Remotes and GitHub|More]]
+- **Hash (Git):** the unique ID of a commit. [[09 Git Basics#The Daily Loop|More]]
+- **Immutable:** can't be changed after being created. [[05 Lists, Strings and Dictionaries#Values and References - The Big Surprise|More]]
+- **Implication:** an "if p, then q" statement. [[12 Mathematical Logic#Implication - If p, Then q|More]]
+- **Indentation:** spaces at the start of a line. Python uses them to group code. [[03 Conditions and Loops#Making Choices with if|More]]
+- **Index:** an item's position in a list, starting at 0. [[05 Lists, Strings and Dictionaries#Lists|More]]
+- **Induction:** a proof with a base case and a step to the next case. [[12 Mathematical Logic#Proof by Induction|More]]
+- **Infinite loop:** a loop that never ends. [[03 Conditions and Loops#The while Loop|More]]
+- **Invariant:** a fact that stays true every time around a loop. [[12 Mathematical Logic#Loop Invariants|More]]
+
+## J to P
+
+- **JSON:** a common text format for storing structured data. [[06 Files, Errors and Modules#Files - Memory That Lasts|More]]
+- **List:** an ordered group of items. [[05 Lists, Strings and Dictionaries#Lists|More]]
+- **Local variable:** a variable that exists only inside its function. [[04 Functions and Scope#Scope - Where a Name Exists|More]]
+- **Logging:** recording messages as a program runs. [[10 Debugging#Logging|More]]
+- **Logic gate:** a tiny electronic part that does one Boolean operation. [[13 Boolean Algebra#Logic Gates - Boolean Algebra in Hardware|More]]
+- **Loop:** code that repeats. [[03 Conditions and Loops#Repeating Work - Why Loops?|More]]
+- **Mask:** a number used to set or check certain bits. [[13 Boolean Algebra#Masks - Using Bits as Switches|More]]
+- **Merge:** bringing work from one branch into another. [[09 Git Basics#Branches - Safe Places to Try Things|More]]
+- **Model:** a simplified version of something real. [[01 Computational Thinking#3. Abstraction|More]]
+- **Module:** a Python file that you can reuse. [[06 Files, Errors and Modules#Modules and Packages|More]]
+- **Mutable:** can be changed after being created. [[05 Lists, Strings and Dictionaries#Values and References - The Big Surprise|More]]
+- **Off-by-one error:** a loop that runs one time too many or too few. [[10 Debugging#Step 3 and 4 - Guess, Then Test|More]]
+- **Package:** a folder of modules. [[06 Files, Errors and Modules#Modules and Packages|More]]
+- **Parameter:** a function's name for an input. [[04 Functions and Scope#Parameters - Giving a Function Input|More]]
+- **Permissions:** rules for who may read, change or run a file. [[08 Linux Basics#Permissions - Who Can Do What|More]]
+- **Pipe:** `|`, which sends one command's output to the next command. [[08 Linux Basics#Text Tools and Pipes|More]]
+- **Predicate:** a statement that depends on a value, such as "x is even". [[12 Mathematical Logic#Predicates and Quantifiers|More]]
+- **Process:** a program that's running. [[08 Linux Basics#Processes - Running Programs|More]]
+- **Proposition:** a statement that's either true or false. [[12 Mathematical Logic#Propositions|More]]
+- **Pseudocode:** an algorithm's steps, written in plain words. [[01 Computational Thinking#4. Algorithms|More]]
+- **Pull request:** asking others to review your branch before it's merged. [[09 Git Basics#Pull Requests|More]]
+
+## Q to Z
+
+- **Quantifier:** a word saying how many, such as "all" or "some". [[12 Mathematical Logic#Predicates and Quantifiers|More]]
+- **Recursion:** a function that calls itself. [[04 Functions and Scope#Recursion|More]]
+- **Reference:** a pointer to where data lives in memory. [[05 Lists, Strings and Dictionaries#Values and References - The Big Surprise|More]]
+- **Remote:** a copy of your repo on another computer. [[09 Git Basics#Remotes and GitHub|More]]
+- **Repository (repo):** a project that Git is tracking. [[09 Git Basics#Your First Repository|More]]
+- **Return value:** what a function gives back. [[04 Functions and Scope#Return - Getting a Result Back|More]]
+- **Scope:** the part of a program where a name can be used. [[04 Functions and Scope#Scope - Where a Name Exists|More]]
+- **Shell:** the program that understands terminal commands. [[08 Linux Basics#The Big Idea|More]]
+- **Short-circuit:** when Python stops checking once it knows the answer. [[13 Boolean Algebra#Short-Circuit Evaluation|More]]
+- **Slice:** a part of a list or string. [[05 Lists, Strings and Dictionaries#Slices - Taking a Part of a List|More]]
+- **Stack trace or traceback:** the error report that shows where a crash happened. [[10 Debugging#Step 2 - Read the Error Message|More]]
+- **Staging area:** where you choose what goes into the next commit. [[09 Git Basics#The Three Places|More]]
+- **Standard library:** the modules that come with Python. [[06 Files, Errors and Modules#The Standard Library|More]]
+- **State:** what's true about something right now. [[01 Computational Thinking#State - What Is True Right Now|More]]
+- **String:** text. [[05 Lists, Strings and Dictionaries#Strings|More]]
+- **Terminal:** the window where you type commands. [[08 Linux Basics#The Big Idea|More]]
+- **Truth table:** a table listing every true and false case. [[12 Mathematical Logic#Truth Tables|More]]
+- **Type:** the kind of a value, such as number or text. [[02 Variables, Types and Expressions#Types - Different Kinds of Data|More]]
+- **Unit test:** a small check of one small piece of code. [[11 Unit Testing Basics#The Big Idea|More]]
+- **Variable:** a name for a value. [[02 Variables, Types and Expressions#Variables - Labeled Boxes|More]]
+- **Virtual environment:** a private set of packages for one project. [[06 Files, Errors and Modules#Installing Packages with pip|More]]
+- **XOR:** true when two values are different. [[13 Boolean Algebra#XOR - One or the Other, Not Both|More]]

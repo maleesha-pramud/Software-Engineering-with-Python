@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="250" viewBox="0 0 780 250">
+<rect x="1" y="1" width="778" height="248" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="390.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Three ways to combine two sets</text>
+<circle cx="100" cy="125" r="62" fill="#7FB2E5" stroke="#2F6FB0" stroke-width="1.8"/>
+<circle cx="170" cy="125" r="62" fill="#7FB2E5" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="70" y="130" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" text-anchor="middle" fill="#1F2933" font-weight="700">A</text>
+<text xml:space="preserve" x="200" y="130" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" text-anchor="middle" fill="#1F2933" font-weight="700">B</text>
+<text xml:space="preserve" x="135" y="212" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">A ∪ B: union</text>
+<text xml:space="preserve" x="135" y="232" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">in A or B (or both)</text>
+<circle cx="355" cy="125" r="62" fill="#FFFFFF" stroke="#2F6FB0" stroke-width="1.8"/>
+<circle cx="425" cy="125" r="62" fill="#FFFFFF" stroke="#2F6FB0" stroke-width="1.8"/>
+<clipPath id="c1"><circle cx="355" cy="125" r="62"/></clipPath><circle cx="425" cy="125" r="62" fill="#7FB2E5" clip-path="url(#c1)"/>
+<circle cx="355" cy="125" r="62" fill="none" stroke="#2F6FB0" stroke-width="1.8"/><circle cx="425" cy="125" r="62" fill="none" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="325" y="130" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" text-anchor="middle" fill="#1F2933" font-weight="700">A</text>
+<text xml:space="preserve" x="455" y="130" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" text-anchor="middle" fill="#1F2933" font-weight="700">B</text>
+<text xml:space="preserve" x="390" y="212" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">A ∩ B: intersection</text>
+<text xml:space="preserve" x="390" y="232" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">in both A and B</text>
+<circle cx="610" cy="125" r="62" fill="#7FB2E5" stroke="#2F6FB0" stroke-width="1.8"/>
+<circle cx="680" cy="125" r="62" fill="#FFFFFF" stroke="#2F6FB0" stroke-width="1.8"/>
+<circle cx="680" cy="125" r="62" fill="#FBFCFD" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="580" y="130" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" text-anchor="middle" fill="#1F2933" font-weight="700">A</text>
+<text xml:space="preserve" x="710" y="130" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" text-anchor="middle" fill="#1F2933" font-weight="700">B</text>
+<text xml:space="preserve" x="645" y="212" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">A − B: difference</text>
+<text xml:space="preserve" x="645" y="232" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">in A, but not in B</text>
+</svg>

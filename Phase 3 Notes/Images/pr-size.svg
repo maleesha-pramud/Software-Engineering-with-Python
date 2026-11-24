@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="240" viewBox="0 0 740 240">
+<rect x="1" y="1" width="738" height="238" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="370.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Small pull requests get better reviews</text>
+<text xml:space="preserve" x="190" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#2E8B57" font-weight="700">Small: 80 lines, one purpose</text>
+<rect x="90" y="80" width="200" height="50" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="190.0" y="109.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">+80 lines</text>
+<text xml:space="preserve" x="190" y="158" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933">Reviewed quickly</text>
+<text xml:space="preserve" x="190" y="180" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933">Real bugs get found</text>
+<text xml:space="preserve" x="550" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#C94343" font-weight="700">Huge: 3,000 lines, many purposes</text>
+<rect x="400" y="80" width="300" height="50" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="550.0" y="109.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">+3,000 lines</text>
+<text xml:space="preserve" x="550" y="158" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933">Reviewer gets tired</text>
+<text xml:space="preserve" x="550" y="180" font-family="Consolas,Menlo,monospace" font-size="13" text-anchor="middle" fill="#1F2933">&quot;Looks good to me&quot;</text>
+</svg>

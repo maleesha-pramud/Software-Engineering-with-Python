@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="190" viewBox="0 0 680 190">
+<rect x="1" y="1" width="678" height="188" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="340.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">A queue: first in, first out (FIFO)</text>
+<line x1="120" y1="80" x2="560" y2="80" stroke="#5B6672" stroke-width="2.5"/>
+<line x1="120" y1="140" x2="560" y2="140" stroke="#5B6672" stroke-width="2.5"/>
+<rect x="150" y="88" width="85" height="44" rx="6" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="192.5" y="114.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">A</text>
+<rect x="245" y="88" width="85" height="44" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="287.5" y="114.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">B</text>
+<rect x="340" y="88" width="85" height="44" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="382.5" y="114.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">C</text>
+<rect x="435" y="88" width="85" height="44" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="477.5" y="114.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">D</text>
+<line x1="120" y1="110" x2="40" y2="110" stroke="#D97A1E" stroke-width="2.8"/>
+<polygon points="40.0,110.0 48.1,106.1 48.1,113.9" fill="#D97A1E"/>
+<text xml:space="preserve" x="75" y="98" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">leaves</text>
+<text xml:space="preserve" x="75" y="132" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">front</text>
+<line x1="640" y1="110" x2="560" y2="110" stroke="#2E8B57" stroke-width="2.8"/>
+<polygon points="560.0,110.0 568.1,106.1 568.1,113.9" fill="#2E8B57"/>
+<text xml:space="preserve" x="602" y="98" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">joins</text>
+<text xml:space="preserve" x="602" y="132" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">back</text>
+<text xml:space="preserve" x="340" y="172" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">Like a line at a shop: whoever came first is served first.</text>
+</svg>

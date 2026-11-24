@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="280" viewBox="0 0 760 280">
+<rect x="1" y="1" width="758" height="278" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="380.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">The event loop: one worker who never waits around</text>
+<rect x="280" y="120" width="200" height="70" rx="6" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="380.0" y="152.95" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" text-anchor="middle" fill="#1F2933" font-weight="700">Event loop</text>
+<text xml:space="preserve" x="380.0" y="170.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">runs one ready task at a time</text>
+<rect x="40" y="70" width="170" height="60" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="125.0" y="96.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Task A</text>
+<text xml:space="preserve" x="125.0" y="115.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">awaiting network</text>
+<rect x="40" y="150" width="170" height="60" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="125.0" y="176.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Task B</text>
+<text xml:space="preserve" x="125.0" y="195.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">awaiting disk</text>
+<line x1="210" y1="100" x2="278" y2="140" stroke="#5B6672" stroke-width="1.8" stroke-dasharray="5 4"/>
+<polygon points="278.0,140.0 269.0,139.3 273.0,132.5" fill="#5B6672"/>
+<line x1="210" y1="180" x2="278" y2="165" stroke="#5B6672" stroke-width="1.8" stroke-dasharray="5 4"/>
+<polygon points="278.0,165.0 270.9,170.6 269.2,162.9" fill="#5B6672"/>
+<rect x="550" y="70" width="170" height="60" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="635.0" y="96.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Network reply</text>
+<text xml:space="preserve" x="635.0" y="115.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">A can resume</text>
+<rect x="550" y="150" width="170" height="60" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="635.0" y="176.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Timer</text>
+<text xml:space="preserve" x="635.0" y="195.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">C can resume</text>
+<line x1="548" y1="100" x2="482" y2="140" stroke="#2E8B57" stroke-width="1.8"/>
+<polygon points="482.0,140.0 486.9,132.5 491.0,139.1" fill="#2E8B57"/>
+<line x1="548" y1="180" x2="482" y2="165" stroke="#2E8B57" stroke-width="1.8"/>
+<polygon points="482.0,165.0 490.8,163.0 489.0,170.6" fill="#2E8B57"/>
+<text xml:space="preserve" x="380" y="248" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Great for lots of waiting. A slow calculation blocks everything, because nothing else can run.</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="210" viewBox="0 0 780 210">
+<rect x="1" y="1" width="778" height="208" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="390.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">How your request reaches a server</text>
+<rect x="25" y="75" width="130" height="66" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="90.0" y="112.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Your laptop</text>
+<line x1="155" y1="98" x2="177" y2="98" stroke="#2F6FB0" stroke-width="1.8"/>
+<polygon points="177.0,98.0 168.9,101.9 168.9,94.1" fill="#2F6FB0"/>
+<line x1="177" y1="120" x2="155" y2="120" stroke="#2E8B57" stroke-width="1.8"/>
+<polygon points="155.0,120.0 163.1,116.1 163.1,123.9" fill="#2E8B57"/>
+<rect x="177" y="75" width="130" height="66" rx="6" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="242.0" y="112.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Wi-Fi router</text>
+<line x1="307" y1="98" x2="329" y2="98" stroke="#2F6FB0" stroke-width="1.8"/>
+<polygon points="329.0,98.0 320.9,101.9 320.9,94.1" fill="#2F6FB0"/>
+<line x1="329" y1="120" x2="307" y2="120" stroke="#2E8B57" stroke-width="1.8"/>
+<polygon points="307.0,120.0 315.1,116.1 315.1,123.9" fill="#2E8B57"/>
+<rect x="329" y="75" width="130" height="66" rx="6" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="394.0" y="112.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Your ISP</text>
+<line x1="459" y1="98" x2="481" y2="98" stroke="#2F6FB0" stroke-width="1.8"/>
+<polygon points="481.0,98.0 472.9,101.9 472.9,94.1" fill="#2F6FB0"/>
+<line x1="481" y1="120" x2="459" y2="120" stroke="#2E8B57" stroke-width="1.8"/>
+<polygon points="459.0,120.0 467.1,116.1 467.1,123.9" fill="#2E8B57"/>
+<rect x="481" y="75" width="130" height="66" rx="6" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="546.0" y="112.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Internet routers</text>
+<line x1="611" y1="98" x2="633" y2="98" stroke="#2F6FB0" stroke-width="1.8"/>
+<polygon points="633.0,98.0 624.9,101.9 624.9,94.1" fill="#2F6FB0"/>
+<line x1="633" y1="120" x2="611" y2="120" stroke="#2E8B57" stroke-width="1.8"/>
+<polygon points="611.0,120.0 619.1,116.1 619.1,123.9" fill="#2E8B57"/>
+<rect x="633" y="75" width="130" height="66" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="698.0" y="112.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Server</text>
+<text xml:space="preserve" x="390" y="170" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933">Blue: your request travels there. Green: the response comes back.</text>
+<text xml:space="preserve" x="390" y="192" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#5B6672">Data travels in small pieces called packets, hop by hop.</text>
+</svg>

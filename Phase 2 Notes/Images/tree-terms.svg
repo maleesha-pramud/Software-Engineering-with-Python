@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="320" viewBox="0 0 720 320">
+<rect x="1" y="1" width="718" height="318" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="360.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">The parts of a tree</text>
+<line x1="342.3376856108518" y1="89.38310451923499" x2="218.54543010860561" y2="155.14774025480327" stroke="#5B6672" stroke-width="1.8"/>
+<line x1="377.6623143891482" y1="89.38310451923499" x2="501.4545698913944" y2="155.14774025480327" stroke="#5B6672" stroke-width="1.8"/>
+<line x1="185.45973694900366" y1="178.73247065927433" x2="125.26727620354617" y2="235.58090580776195" stroke="#5B6672" stroke-width="1.8"/>
+<line x1="214.54026305099634" y1="178.73247065927433" x2="274.73272379645385" y2="235.58090580776195" stroke="#5B6672" stroke-width="1.8"/>
+<line x1="520.0" y1="185.0" x2="520.0" y2="229.0" stroke="#5B6672" stroke-width="1.8"/>
+<circle cx="360" cy="80" r="20" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.8"/>
+<text xml:space="preserve" x="360" y="84.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">A</text>
+<circle cx="200" cy="165" r="20" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="200" y="169.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">B</text>
+<circle cx="520" cy="165" r="20" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="520" y="169.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">C</text>
+<circle cx="110" cy="250" r="20" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.8"/>
+<text xml:space="preserve" x="110" y="254.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">D</text>
+<circle cx="290" cy="250" r="20" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.8"/>
+<text xml:space="preserve" x="290" y="254.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">E</text>
+<circle cx="520" cy="250" r="20" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.8"/>
+<text xml:space="preserve" x="520" y="254.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">F</text>
+<text xml:space="preserve" x="405" y="75" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="start" fill="#1F2933" font-weight="700">root: the top node</text>
+<text xml:space="preserve" x="130" y="160" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="end" fill="#5B6672">parent of D, E</text>
+<text xml:space="preserve" x="360" y="300" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">leaves (green): nodes with no children</text>
+<text xml:space="preserve" x="600" y="85" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="start" fill="#1F2933" font-weight="700">height = 2</text>
+<line x1="620" y1="95" x2="620" y2="240" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="620.0,240.0 616.1,231.9 623.9,231.9" fill="#5B6672"/>
+<line x1="620" y1="240" x2="620" y2="95" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="620.0,95.0 623.9,103.1 616.1,103.1" fill="#5B6672"/>
+</svg>

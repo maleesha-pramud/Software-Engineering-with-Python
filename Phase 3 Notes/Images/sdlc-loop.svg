@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="340" viewBox="0 0 760 340">
+<rect x="1" y="1" width="758" height="338" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="380.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">The software lifecycle is a loop, not a line</text>
+<rect x="318.0" y="52.0" width="124" height="36" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="380.0" y="74.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Plan</text>
+<rect x="487.7056274847714" y="87.1471862576143" width="124" height="36" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="549.7056274847714" y="109.69718625761429" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Requirements</text>
+<rect x="558.0" y="172.0" width="124" height="36" rx="6" fill="#EAE3F8" stroke="#7452B8" stroke-width="1.6"/>
+<text xml:space="preserve" x="620.0" y="194.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Design</text>
+<rect x="487.7056274847714" y="256.8528137423857" width="124" height="36" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="549.7056274847714" y="279.4028137423857" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Build</text>
+<rect x="318.0" y="292.0" width="124" height="36" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="380.0" y="314.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Test</text>
+<rect x="148.29437251522862" y="256.8528137423857" width="124" height="36" rx="6" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="210.29437251522862" y="279.4028137423857" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Release</text>
+<rect x="78.0" y="172.00000000000003" width="124" height="36" rx="6" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="140.0" y="194.55000000000004" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Operate</text>
+<rect x="148.29437251522856" y="87.14718625761431" width="124" height="36" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="210.29437251522856" y="109.6971862576143" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Learn</text>
+<text xml:space="preserve" x="380" y="186" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Most cost comes</text>
+<text xml:space="preserve" x="380" y="206" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">after the first release</text>
+<line x1="440.7116124766471" y1="75.6784842893409" x2="488.99401500812434" y2="99.4687019682734" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="489.0,99.5 480.0,99.4 483.5,92.4" fill="#1F2933"/>
+<line x1="589.2586497953365" y1="126.7093185242299" x2="580.4469776894349" y2="168.4378677333844" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="580.4,168.4 578.3,159.7 586.0,161.3" fill="#1F2933"/>
+<line x1="580.4469776894349" y1="211.5621322666156" x2="589.2586497953365" y2="253.2906814757701" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="589.3,253.3 583.8,246.2 591.4,244.6" fill="#1F2933"/>
+<line x1="488.99401500812434" y1="280.5312980317266" x2="440.7116124766471" y2="304.3215157106591" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="440.7,304.3 446.3,297.2 449.7,304.3" fill="#1F2933"/>
+<line x1="319.2883875233529" y1="304.3215157106591" x2="271.0059849918757" y2="280.5312980317266" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="271.0,280.5 280.0,280.6 276.5,287.6" fill="#1F2933"/>
+<line x1="170.74135020466346" y1="253.2906814757701" x2="179.55302231056515" y2="211.56213226661563" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="179.6,211.6 181.7,220.3 174.0,218.7" fill="#1F2933"/>
+<line x1="179.5530223105651" y1="168.43786773338442" x2="170.74135020466343" y2="126.70931852422991" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="170.7,126.7 176.2,133.8 168.6,135.4" fill="#1F2933"/>
+<line x1="271.00598499187566" y1="99.46870196827341" x2="319.2883875233529" y2="75.6784842893409" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="319.3,75.7 313.7,82.8 310.3,75.7" fill="#1F2933"/>
+</svg>

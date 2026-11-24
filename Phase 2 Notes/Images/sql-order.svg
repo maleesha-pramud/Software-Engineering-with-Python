@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="210" viewBox="0 0 780 210">
+<rect x="1" y="1" width="778" height="208" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="390.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">SQL&#x27;s real order: you write one way, the database runs another</text>
+<text xml:space="preserve" x="30" y="74" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="start" fill="#5B6672" font-weight="700">You write</text>
+<rect x="110" y="54" width="86" height="36" rx="3" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="153.0" y="76.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">SELECT</text>
+<rect x="202" y="54" width="86" height="36" rx="3" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="245.0" y="76.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">FROM</text>
+<rect x="294" y="54" width="86" height="36" rx="3" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="337.0" y="76.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">WHERE</text>
+<rect x="386" y="54" width="86" height="36" rx="3" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="429.0" y="76.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">GROUP BY</text>
+<rect x="478" y="54" width="86" height="36" rx="3" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="521.0" y="76.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">HAVING</text>
+<rect x="570" y="54" width="86" height="36" rx="3" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="613.0" y="76.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">ORDER BY</text>
+<rect x="662" y="54" width="86" height="36" rx="3" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="705.0" y="76.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">LIMIT</text>
+<text xml:space="preserve" x="30" y="154" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="start" fill="#2E8B57" font-weight="700">It runs</text>
+<rect x="110" y="134" width="86" height="36" rx="3" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="153.0" y="156.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">FROM</text>
+<line x1="196" y1="152" x2="202" y2="152" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="202.0,152.0 193.9,155.9 193.9,148.1" fill="#5B6672"/>
+<rect x="202" y="134" width="86" height="36" rx="3" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="245.0" y="156.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">WHERE</text>
+<line x1="288" y1="152" x2="294" y2="152" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="294.0,152.0 285.9,155.9 285.9,148.1" fill="#5B6672"/>
+<rect x="294" y="134" width="86" height="36" rx="3" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="337.0" y="156.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">GROUP BY</text>
+<line x1="380" y1="152" x2="386" y2="152" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="386.0,152.0 377.9,155.9 377.9,148.1" fill="#5B6672"/>
+<rect x="386" y="134" width="86" height="36" rx="3" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="429.0" y="156.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">HAVING</text>
+<line x1="472" y1="152" x2="478" y2="152" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="478.0,152.0 469.9,155.9 469.9,148.1" fill="#5B6672"/>
+<rect x="478" y="134" width="86" height="36" rx="3" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="521.0" y="156.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">SELECT</text>
+<line x1="564" y1="152" x2="570" y2="152" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="570.0,152.0 561.9,155.9 561.9,148.1" fill="#5B6672"/>
+<rect x="570" y="134" width="86" height="36" rx="3" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="613.0" y="156.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">ORDER BY</text>
+<line x1="656" y1="152" x2="662" y2="152" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="662.0,152.0 653.9,155.9 653.9,148.1" fill="#5B6672"/>
+<rect x="662" y="134" width="86" height="36" rx="3" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="705.0" y="156.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">LIMIT</text>
+<text xml:space="preserve" x="390" y="196" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933">This is why WHERE can&#x27;t see a name you created in SELECT.</text>
+</svg>

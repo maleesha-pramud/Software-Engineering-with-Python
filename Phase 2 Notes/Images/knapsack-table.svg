@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="290" viewBox="0 0 660 290">
+<rect x="1" y="1" width="658" height="288" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="330.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">0/1 Knapsack: best value in each row and capacity</text>
+<rect x="30" y="56" width="118" height="38" rx="1" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="89.0" y="79.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">items \ cap</text>
+<rect x="150" y="56" width="76" height="38" rx="1" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="188.0" y="79.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">0</text>
+<rect x="226" y="56" width="76" height="38" rx="1" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="264.0" y="79.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">1</text>
+<rect x="302" y="56" width="76" height="38" rx="1" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="340.0" y="79.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">2</text>
+<rect x="378" y="56" width="76" height="38" rx="1" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="416.0" y="79.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">3</text>
+<rect x="454" y="56" width="76" height="38" rx="1" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="492.0" y="79.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">4</text>
+<rect x="530" y="56" width="76" height="38" rx="1" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="568.0" y="79.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">5</text>
+<rect x="30" y="94" width="118" height="38" rx="1" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="89.0" y="117.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933">none</text>
+<rect x="150" y="94" width="76" height="38" rx="1" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="188.0" y="117.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">0</text>
+<rect x="226" y="94" width="76" height="38" rx="1" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="264.0" y="117.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">0</text>
+<rect x="302" y="94" width="76" height="38" rx="1" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="340.0" y="117.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">0</text>
+<rect x="378" y="94" width="76" height="38" rx="1" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="416.0" y="117.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">0</text>
+<rect x="454" y="94" width="76" height="38" rx="1" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="492.0" y="117.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">0</text>
+<rect x="530" y="94" width="76" height="38" rx="1" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="568.0" y="117.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">0</text>
+<rect x="30" y="132" width="118" height="38" rx="1" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="89.0" y="155.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933">A (w2, $3)</text>
+<rect x="150" y="132" width="76" height="38" rx="1" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="188.0" y="155.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">0</text>
+<rect x="226" y="132" width="76" height="38" rx="1" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="264.0" y="155.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">0</text>
+<rect x="302" y="132" width="76" height="38" rx="1" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="340.0" y="155.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">3</text>
+<rect x="378" y="132" width="76" height="38" rx="1" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="416.0" y="155.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">3</text>
+<rect x="454" y="132" width="76" height="38" rx="1" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="492.0" y="155.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">3</text>
+<rect x="530" y="132" width="76" height="38" rx="1" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="568.0" y="155.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">3</text>
+<rect x="30" y="170" width="118" height="38" rx="1" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="89.0" y="193.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933">B (w3, $4)</text>
+<rect x="150" y="170" width="76" height="38" rx="1" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="188.0" y="193.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">0</text>
+<rect x="226" y="170" width="76" height="38" rx="1" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="264.0" y="193.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">0</text>
+<rect x="302" y="170" width="76" height="38" rx="1" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="340.0" y="193.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">3</text>
+<rect x="378" y="170" width="76" height="38" rx="1" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="416.0" y="193.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">4</text>
+<rect x="454" y="170" width="76" height="38" rx="1" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="492.0" y="193.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">4</text>
+<rect x="530" y="170" width="76" height="38" rx="1" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="568.0" y="193.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">7</text>
+<rect x="30" y="208" width="118" height="38" rx="1" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="89.0" y="231.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933">C (w4, $5)</text>
+<rect x="150" y="208" width="76" height="38" rx="1" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="188.0" y="231.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">0</text>
+<rect x="226" y="208" width="76" height="38" rx="1" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="264.0" y="231.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">0</text>
+<rect x="302" y="208" width="76" height="38" rx="1" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="340.0" y="231.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">3</text>
+<rect x="378" y="208" width="76" height="38" rx="1" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="416.0" y="231.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">4</text>
+<rect x="454" y="208" width="76" height="38" rx="1" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="492.0" y="231.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">5</text>
+<rect x="530" y="208" width="76" height="38" rx="1" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="568.0" y="231.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">7</text>
+<text xml:space="preserve" x="330" y="268" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933">Green 7: take B ($4) + best at capacity 2 ($3), or skip B ($3). Take B.</text>
+</svg>

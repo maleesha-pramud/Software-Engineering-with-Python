@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="270" viewBox="0 0 780 270">
+<rect x="1" y="1" width="778" height="268" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="390.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">STRIDE: six questions to ask about each part</text>
+<rect x="22" y="62" width="238" height="92" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="141.0" y="104.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Spoofing</text>
+<text xml:space="preserve" x="141.0" y="123.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">pretending to be someone: use authentication</text>
+<rect x="272" y="62" width="238" height="92" rx="6" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="391.0" y="104.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Tampering</text>
+<text xml:space="preserve" x="391.0" y="123.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">changing data: use integrity checks</text>
+<rect x="522" y="62" width="238" height="92" rx="6" fill="#FFF4C2" stroke="#B58900" stroke-width="1.6"/>
+<text xml:space="preserve" x="641.0" y="104.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Repudiation</text>
+<text xml:space="preserve" x="641.0" y="123.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">denying an action: keep audit logs</text>
+<rect x="22" y="166" width="238" height="92" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="141.0" y="208.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Information disclosure</text>
+<text xml:space="preserve" x="141.0" y="227.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">leaking data: use encryption</text>
+<rect x="272" y="166" width="238" height="92" rx="6" fill="#EAE3F8" stroke="#7452B8" stroke-width="1.6"/>
+<text xml:space="preserve" x="391.0" y="208.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Denial of service</text>
+<text xml:space="preserve" x="391.0" y="227.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">knocking it over: use rate limits</text>
+<rect x="522" y="166" width="238" height="92" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="641.0" y="208.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Elevation of privilege</text>
+<text xml:space="preserve" x="641.0" y="227.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">gaining power: use authorization</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="285" viewBox="0 0 700 285">
+<rect x="1" y="1" width="698" height="283" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="350.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Minimum spanning tree: connect everything for the least cost</text>
+<text xml:space="preserve" x="150" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">All roads</text>
+<line x1="90.0" y1="95.0" x2="209.0" y2="95.0" stroke="#5B6672" stroke-width="1.8"/>
+<text xml:space="preserve" x="150.0" y="111.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">1</text>
+<line x1="70.0" y1="115.0" x2="70.0" y2="214.0" stroke="#5B6672" stroke-width="1.8"/>
+<text xml:space="preserve" x="58.0" y="169.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">4</text>
+<line x1="230.0" y1="115.0" x2="230.0" y2="214.0" stroke="#5B6672" stroke-width="1.8"/>
+<text xml:space="preserve" x="218.0" y="169.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">2</text>
+<line x1="90.0" y1="235.0" x2="209.0" y2="235.0" stroke="#5B6672" stroke-width="1.8"/>
+<text xml:space="preserve" x="150.0" y="251.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">3</text>
+<line x1="85.05153389413755" y1="108.17009215737036" x2="214.19588941115558" y2="221.17140323476113" stroke="#5B6672" stroke-width="1.8"/>
+<text xml:space="preserve" x="142.0979447055778" y="178.03092033648252" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">5</text>
+<circle cx="70" cy="95" r="20" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="70" y="99.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">A</text>
+<circle cx="230" cy="95" r="20" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="230" y="99.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">B</text>
+<circle cx="70" cy="235" r="20" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="70" y="239.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">C</text>
+<circle cx="230" cy="235" r="20" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="230" y="239.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">D</text>
+<line x1="290" y1="165" x2="360" y2="165" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="360.0,165.0 351.9,168.9 351.9,161.1" fill="#5B6672"/>
+<text xml:space="preserve" x="490" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#2E8B57" font-weight="700">Keep cheapest: total 6</text>
+<line x1="430.0" y1="95.0" x2="549.0" y2="95.0" stroke="#2E8B57" stroke-width="3.2"/>
+<text xml:space="preserve" x="490.0" y="111.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">1</text>
+<line x1="570.0" y1="115.0" x2="570.0" y2="214.0" stroke="#2E8B57" stroke-width="3.2"/>
+<text xml:space="preserve" x="558.0" y="169.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">2</text>
+<line x1="430.0" y1="235.0" x2="549.0" y2="235.0" stroke="#2E8B57" stroke-width="3.2"/>
+<text xml:space="preserve" x="490.0" y="251.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">3</text>
+<circle cx="410" cy="95" r="20" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.8"/>
+<text xml:space="preserve" x="410" y="99.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">A</text>
+<circle cx="570" cy="95" r="20" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.8"/>
+<text xml:space="preserve" x="570" y="99.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">B</text>
+<circle cx="410" cy="235" r="20" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.8"/>
+<text xml:space="preserve" x="410" y="239.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">C</text>
+<circle cx="570" cy="235" r="20" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.8"/>
+<text xml:space="preserve" x="570" y="239.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">D</text>
+</svg>

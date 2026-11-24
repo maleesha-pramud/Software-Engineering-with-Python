@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="350" viewBox="0 0 780 350">
+<rect x="1" y="1" width="778" height="348" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="390.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Virtual memory: each process sees its own private addresses</text>
+<text xml:space="preserve" x="100" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Process A</text>
+<text xml:space="preserve" x="390" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Real RAM</text>
+<text xml:space="preserve" x="680" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Process B</text>
+<rect x="330" y="76" width="120" height="32" rx="1" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="390.0" y="96.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">A page 1</text>
+<rect x="330" y="110" width="120" height="32" rx="1" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="390.0" y="130.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">B page 1</text>
+<rect x="330" y="144" width="120" height="32" rx="1" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="390.0" y="164.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">A page 0</text>
+<rect x="330" y="178" width="120" height="32" rx="1" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="390.0" y="198.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">free</text>
+<rect x="330" y="212" width="120" height="32" rx="1" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="390.0" y="232.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">B page 0</text>
+<rect x="330" y="246" width="120" height="32" rx="1" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="390.0" y="266.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">B page 2</text>
+<rect x="30" y="76" width="140" height="50" rx="2" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="100.0" y="105.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">page 0</text>
+<rect x="610" y="76" width="140" height="50" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="680.0" y="105.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">page 0</text>
+<rect x="30" y="136" width="140" height="50" rx="2" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="100.0" y="165.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">page 1</text>
+<rect x="610" y="136" width="140" height="50" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="680.0" y="165.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">page 1</text>
+<rect x="30" y="196" width="140" height="50" rx="2" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="100.0" y="225.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">page 2</text>
+<rect x="610" y="196" width="140" height="50" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="680.0" y="225.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">page 2</text>
+<line x1="170" y1="101" x2="328" y2="160" stroke="#2F6FB0" stroke-width="1.8"/>
+<polygon points="328.0,160.0 319.0,160.8 321.8,153.5" fill="#2F6FB0"/>
+<line x1="170" y1="161" x2="328" y2="92" stroke="#2F6FB0" stroke-width="1.8"/>
+<polygon points="328.0,92.0 322.1,98.8 319.0,91.7" fill="#2F6FB0"/>
+<line x1="610" y1="101" x2="452" y2="228" stroke="#2E8B57" stroke-width="1.8"/>
+<polygon points="452.0,228.0 455.9,219.9 460.8,226.0" fill="#2E8B57"/>
+<line x1="610" y1="161" x2="452" y2="126" stroke="#2E8B57" stroke-width="1.8"/>
+<polygon points="452.0,126.0 460.8,123.9 459.1,131.6" fill="#2E8B57"/>
+<line x1="610" y1="221" x2="452" y2="262" stroke="#2E8B57" stroke-width="1.8"/>
+<polygon points="452.0,262.0 458.9,256.2 460.8,263.8" fill="#2E8B57"/>
+<rect x="30" y="268" width="140" height="34" rx="6" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="100.0" y="289.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">Disk: swapped</text>
+<line x1="100" y1="246" x2="100" y2="266" stroke="#2F6FB0" stroke-width="1.8" stroke-dasharray="5 4"/>
+<polygon points="100.0,266.0 96.1,257.9 103.9,257.9" fill="#2F6FB0"/>
+<text xml:space="preserve" x="390" y="322" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933">Page tables translate each address. Page 0 of A and page 0 of B are different places in RAM.</text>
+<text xml:space="preserve" x="390" y="342" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">A missing page causes a page fault, and the kernel loads it.</text>
+</svg>

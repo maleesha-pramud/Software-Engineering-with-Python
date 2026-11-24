@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="210" viewBox="0 0 720 210">
+<rect x="1" y="1" width="718" height="208" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="360.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Greedy: make 63 with the biggest coin that fits</text>
+<circle cx="80" cy="105" r="34" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.8"/>
+<text xml:space="preserve" x="80" y="110.95" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" text-anchor="middle" fill="#1F2933" font-weight="700">50</text>
+<text xml:space="preserve" x="80" y="165" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#5B6672">13 left</text>
+<line x1="116" y1="105" x2="167" y2="105" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="167.0,105.0 158.9,108.9 158.9,101.1" fill="#5B6672"/>
+<circle cx="205" cy="105" r="34" fill="#FFF4C2" stroke="#B58900" stroke-width="1.8"/>
+<text xml:space="preserve" x="205" y="110.95" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" text-anchor="middle" fill="#1F2933" font-weight="700">10</text>
+<text xml:space="preserve" x="205" y="165" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#5B6672">3 left</text>
+<line x1="241" y1="105" x2="292" y2="105" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="292.0,105.0 283.9,108.9 283.9,101.1" fill="#5B6672"/>
+<circle cx="330" cy="105" r="34" fill="#EEF0F3" stroke="#77808C" stroke-width="1.8"/>
+<text xml:space="preserve" x="330" y="110.95" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" text-anchor="middle" fill="#1F2933" font-weight="700">1</text>
+<text xml:space="preserve" x="330" y="165" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#5B6672">2 left</text>
+<line x1="366" y1="105" x2="417" y2="105" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="417.0,105.0 408.9,108.9 408.9,101.1" fill="#5B6672"/>
+<circle cx="455" cy="105" r="34" fill="#EEF0F3" stroke="#77808C" stroke-width="1.8"/>
+<text xml:space="preserve" x="455" y="110.95" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" text-anchor="middle" fill="#1F2933" font-weight="700">1</text>
+<text xml:space="preserve" x="455" y="165" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#5B6672">1 left</text>
+<line x1="491" y1="105" x2="542" y2="105" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="542.0,105.0 533.9,108.9 533.9,101.1" fill="#5B6672"/>
+<circle cx="580" cy="105" r="34" fill="#EEF0F3" stroke="#77808C" stroke-width="1.8"/>
+<text xml:space="preserve" x="580" y="110.95" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" text-anchor="middle" fill="#1F2933" font-weight="700">1</text>
+<text xml:space="preserve" x="580" y="165" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#5B6672">0 left</text>
+<text xml:space="preserve" x="360" y="196" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#C94343">Works for these coins, but greedy is not always the best. Always check!</text>
+</svg>

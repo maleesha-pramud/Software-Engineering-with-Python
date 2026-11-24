@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="240" viewBox="0 0 780 240">
+<rect x="1" y="1" width="778" height="238" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="390.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Three kinds of graph</text>
+<text xml:space="preserve" x="140" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Undirected</text>
+<line x1="95.0" y1="90.0" x2="184.0" y2="90.0" stroke="#5B6672" stroke-width="1.8"/>
+<line x1="193.7063216881602" y1="106.50614522499663" x2="151.8583622274318" y2="167.66854751375354" stroke="#5B6672" stroke-width="1.8"/>
+<line x1="86.2936783118398" y1="106.50614522499663" x2="128.1416377725682" y2="167.66854751375354" stroke="#5B6672" stroke-width="1.8"/>
+<circle cx="75" cy="90" r="20" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="75" y="94.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">A</text>
+<circle cx="205" cy="90" r="20" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="205" y="94.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">B</text>
+<circle cx="140" cy="185" r="20" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="140" y="189.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">C</text>
+<text xml:space="preserve" x="140" y="225" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">friendship: both ways</text>
+<text xml:space="preserve" x="390" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Directed</text>
+<line x1="345.0" y1="90.0" x2="434.0" y2="90.0" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="434.0,90.0 425.9,93.9 425.9,86.1" fill="#5B6672"/>
+<line x1="443.7063216881602" y1="106.50614522499663" x2="401.85836222743177" y2="167.66854751375354" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="401.9,167.7 403.2,158.8 409.7,163.2" fill="#5B6672"/>
+<line x1="336.2936783118398" y1="106.50614522499663" x2="378.14163777256823" y2="167.66854751375354" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="378.1,167.7 370.3,163.2 376.8,158.8" fill="#5B6672"/>
+<circle cx="325" cy="90" r="20" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="325" y="94.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">A</text>
+<circle cx="455" cy="90" r="20" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="455" y="94.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">B</text>
+<circle cx="390" cy="185" r="20" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="390" y="189.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">C</text>
+<text xml:space="preserve" x="390" y="225" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">following: one way</text>
+<text xml:space="preserve" x="640" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Weighted</text>
+<line x1="595.0" y1="90.0" x2="684.0" y2="90.0" stroke="#5B6672" stroke-width="1.8"/>
+<text xml:space="preserve" x="640.0" y="106.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">5</text>
+<line x1="693.7063216881602" y1="106.50614522499663" x2="651.8583622274318" y2="167.66854751375354" stroke="#5B6672" stroke-width="1.8"/>
+<text xml:space="preserve" x="662.596312865002" y="134.72379301289612" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">2</text>
+<line x1="586.2936783118398" y1="106.50614522499663" x2="628.1416377725682" y2="167.66854751375354" stroke="#5B6672" stroke-width="1.8"/>
+<text xml:space="preserve" x="597.596312865002" y="148.27620698710388" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">7</text>
+<circle cx="575" cy="90" r="20" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="575" y="94.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">A</text>
+<circle cx="705" cy="90" r="20" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="705" y="94.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">B</text>
+<circle cx="640" cy="185" r="20" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="640" y="189.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">C</text>
+<text xml:space="preserve" x="640" y="225" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">roads with distances</text>
+</svg>

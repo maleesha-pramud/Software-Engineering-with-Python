@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="300" viewBox="0 0 780 300">
+<rect x="1" y="1" width="778" height="298" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="390.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Image layers are cached, so order matters</text>
+<text xml:space="preserve" x="205" y="60" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#2E8B57" font-weight="700">Good: slow steps first</text>
+<rect x="40" y="72" width="260" height="40" rx="1" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="170.0" y="96.2" font-family="Consolas,Menlo,monospace" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">COPY . .</text>
+<text xml:space="preserve" x="312" y="96" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="start" fill="#1F2933" font-weight="700">rebuilt</text>
+<rect x="40" y="116" width="260" height="40" rx="1" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="170.0" y="140.2" font-family="Consolas,Menlo,monospace" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">RUN pip install</text>
+<text xml:space="preserve" x="312" y="140" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="start" fill="#1F2933" font-weight="700">cached</text>
+<rect x="40" y="160" width="260" height="40" rx="1" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="170.0" y="184.2" font-family="Consolas,Menlo,monospace" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">COPY requirements.txt .</text>
+<text xml:space="preserve" x="312" y="184" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="start" fill="#1F2933" font-weight="700">cached</text>
+<rect x="40" y="204" width="260" height="40" rx="1" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="170.0" y="228.2" font-family="Consolas,Menlo,monospace" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">FROM python:3.13-slim</text>
+<text xml:space="preserve" x="312" y="228" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="start" fill="#1F2933" font-weight="700">cached</text>
+<text xml:space="preserve" x="590" y="60" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#C94343" font-weight="700">Bad: copy everything too early</text>
+<rect x="430" y="72" width="260" height="40" rx="1" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="560.0" y="96.2" font-family="Consolas,Menlo,monospace" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">RUN pip install</text>
+<text xml:space="preserve" x="702" y="96" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="start" fill="#1F2933" font-weight="700">rebuilt</text>
+<rect x="430" y="116" width="260" height="40" rx="1" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="560.0" y="140.2" font-family="Consolas,Menlo,monospace" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">COPY . .</text>
+<text xml:space="preserve" x="702" y="140" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="start" fill="#1F2933" font-weight="700">rebuilt</text>
+<rect x="430" y="160" width="260" height="40" rx="1" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="560.0" y="184.2" font-family="Consolas,Menlo,monospace" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">FROM python:3.13-slim</text>
+<text xml:space="preserve" x="702" y="184" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="start" fill="#1F2933" font-weight="700">cached</text>
+<text xml:space="preserve" x="390" y="272" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933">When you change one code file, the left rebuilds one layer, while the right reinstalls everything.</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="260" viewBox="0 0 720 260">
+<rect x="1" y="1" width="718" height="258" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="360.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Inserting into a linked list changes only two arrows</text>
+<rect x="150" y="70" width="80" height="46" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="190.0" y="97.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">A</text>
+<rect x="450" y="70" width="80" height="46" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="490.0" y="97.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">C</text>
+<line x1="230" y1="93" x2="450" y2="93" stroke="#C94343" stroke-width="1.8" stroke-dasharray="5 4"/>
+<polygon points="450.0,93.0 441.9,96.9 441.9,89.1" fill="#C94343"/>
+<text xml:space="preserve" x="340.0" y="85.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">old arrow: remove</text>
+<rect x="300" y="185" width="80" height="46" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="340.0" y="212.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">B</text>
+<text xml:space="preserve" x="340" y="248" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">new node</text>
+<line x1="215" y1="116" x2="300" y2="190" stroke="#2E8B57" stroke-width="2.8"/>
+<polygon points="300.0,190.0 291.3,187.6 296.5,181.7" fill="#2E8B57"/>
+<text xml:space="preserve" x="245" y="165" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="end" fill="#1F2933" font-weight="700">1. A → B</text>
+<line x1="380" y1="190" x2="465" y2="116" stroke="#2E8B57" stroke-width="2.8"/>
+<polygon points="465.0,116.0 461.5,124.3 456.3,118.4" fill="#2E8B57"/>
+<text xml:space="preserve" x="435" y="165" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="start" fill="#1F2933" font-weight="700">2. B → C</text>
+</svg>

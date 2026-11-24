@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="240" viewBox="0 0 760 240">
+<rect x="1" y="1" width="758" height="238" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="380.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Selectivity: an index helps most when it narrows things down</text>
+<text xml:space="preserve" x="190" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#2E8B57" font-weight="700">email: high selectivity</text>
+<rect x="40" y="78" width="50" height="42" rx="2" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="65.0" y="104.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700"></text>
+<rect x="90" y="78" width="50" height="42" rx="2" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="115.0" y="104.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700"></text>
+<rect x="140" y="78" width="50" height="42" rx="2" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="165.0" y="104.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700"></text>
+<rect x="190" y="78" width="50" height="42" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="215.0" y="104.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">✓</text>
+<rect x="240" y="78" width="50" height="42" rx="2" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="265.0" y="104.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700"></text>
+<rect x="290" y="78" width="50" height="42" rx="2" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="315.0" y="104.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700"></text>
+<text xml:space="preserve" x="190" y="148" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933">1 in a million rows matches</text>
+<text xml:space="preserve" x="190" y="170" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#2E8B57" font-weight="700">An index is a huge win</text>
+<text xml:space="preserve" x="570" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#C94343" font-weight="700">is_active: low selectivity</text>
+<rect x="420" y="78" width="50" height="42" rx="2" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="445.0" y="104.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">✓</text>
+<rect x="470" y="78" width="50" height="42" rx="2" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="495.0" y="104.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">✓</text>
+<rect x="520" y="78" width="50" height="42" rx="2" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="545.0" y="104.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700"></text>
+<rect x="570" y="78" width="50" height="42" rx="2" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="595.0" y="104.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">✓</text>
+<rect x="620" y="78" width="50" height="42" rx="2" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="645.0" y="104.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">✓</text>
+<rect x="670" y="78" width="50" height="42" rx="2" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="695.0" y="104.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700"></text>
+<text xml:space="preserve" x="570" y="148" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933">90% of rows match</text>
+<text xml:space="preserve" x="570" y="170" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#C94343" font-weight="700">A plain index rarely helps</text>
+<text xml:space="preserve" x="380" y="216" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933">Tip: a partial index covers only the few rows you often need.</text>
+</svg>

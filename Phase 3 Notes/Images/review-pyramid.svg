@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="348" viewBox="0 0 740 348">
+<rect x="1" y="1" width="738" height="346" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="370.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">What to look for in a review, most important at the bottom</text>
+<rect x="240.0" y="62" width="260" height="44" rx="2" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="370.0" y="88.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Style and formatting: let tools do this</text>
+<rect x="190.0" y="112" width="360" height="44" rx="2" fill="#FFF4C2" stroke="#B58900" stroke-width="1.6"/>
+<text xml:space="preserve" x="370.0" y="138.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Readability and naming</text>
+<rect x="140.0" y="162" width="460" height="44" rx="2" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="370.0" y="188.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Tests: do they prove it works?</text>
+<rect x="90.0" y="212" width="560" height="44" rx="2" fill="#EAE3F8" stroke="#7452B8" stroke-width="1.6"/>
+<text xml:space="preserve" x="370.0" y="238.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Design: does it fit the system?</text>
+<rect x="40.0" y="262" width="660" height="44" rx="2" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="370.0" y="288.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Correctness and security: does it work, and is it safe?</text>
+<text xml:space="preserve" x="370" y="332" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Spend your attention at the bottom. Automate the top.</text>
+</svg>

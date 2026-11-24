@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="200" viewBox="0 0 760 200">
+<rect x="1" y="1" width="758" height="198" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="380.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Why money must not be stored as a float</text>
+<rect x="40" y="66" width="310" height="70" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="195.0" y="97.55" font-family="Consolas,Menlo,monospace" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">0.1 + 0.2 = 0.30000000000000004</text>
+<text xml:space="preserve" x="195.0" y="116.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">tiny errors build up</text>
+<rect x="410" y="66" width="310" height="70" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="565.0" y="97.9" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">10 + 20 = 30 cents</text>
+<text xml:space="preserve" x="565.0" y="116.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">whole cents, or a DECIMAL type</text>
+<text xml:space="preserve" x="380" y="172" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933">Store money in the smallest unit, as a whole number, or use DECIMAL. Always store the currency.</text>
+</svg>

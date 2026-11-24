@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="240" viewBox="0 0 760 240">
+<rect x="1" y="1" width="758" height="238" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="380.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">The write-ahead log: write down the plan first</text>
+<rect x="20" y="72" width="170" height="76" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="105.0" y="106.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">1. Change arrives</text>
+<text xml:space="preserve" x="105.0" y="125.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">UPDATE balance</text>
+<line x1="190" y1="110" x2="206" y2="110" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="206.0,110.0 197.9,113.9 197.9,106.1" fill="#1F2933"/>
+<rect x="206" y="72" width="170" height="76" rx="6" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="291.0" y="106.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">2. Append to log</text>
+<text xml:space="preserve" x="291.0" y="125.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">fast, then fsync</text>
+<line x1="376" y1="110" x2="392" y2="110" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="392.0,110.0 383.9,113.9 383.9,106.1" fill="#1F2933"/>
+<rect x="392" y="72" width="170" height="76" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="477.0" y="106.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">3. Say committed</text>
+<text xml:space="preserve" x="477.0" y="125.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">safe from now on</text>
+<line x1="562" y1="110" x2="578" y2="110" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="578.0,110.0 569.9,113.9 569.9,106.1" fill="#1F2933"/>
+<rect x="578" y="72" width="170" height="76" rx="6" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="663.0" y="106.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">4. Update tables</text>
+<text xml:space="preserve" x="663.0" y="125.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">later, in the background</text>
+<text xml:space="preserve" x="380" y="186" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933">Crash after step 3? On restart, the database replays the log, so nothing is lost.</text>
+<text xml:space="preserve" x="380" y="212" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#5B6672">Unfinished transactions in the log are simply ignored.</text>
+</svg>

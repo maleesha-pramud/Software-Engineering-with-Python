@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="330" viewBox="0 0 780 330">
+<rect x="1" y="1" width="778" height="328" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="390.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">BFS spreads like a ripple. DFS dives down a path.</text>
+<text xml:space="preserve" x="200" y="58" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">BFS (uses a queue)</text>
+<line x1="184.6355744080525" y1="117.8036879932896" x2="126.13264687154489" y2="166.55612760704594" stroke="#5B6672" stroke-width="1.8"/>
+<line x1="215.3644255919475" y1="117.8036879932896" x2="273.8673531284551" y2="166.55612760704594" stroke="#5B6672" stroke-width="1.8"/>
+<line x1="99.4000211999364" y1="196.95996608010176" x2="71.12997774006678" y2="242.19203561589316" stroke="#5B6672" stroke-width="1.8"/>
+<line x1="120.5999788000636" y1="196.95996608010176" x2="148.87002225993322" y2="242.19203561589316" stroke="#5B6672" stroke-width="1.8"/>
+<line x1="290.0" y1="200.0" x2="290.0" y2="239.0" stroke="#5B6672" stroke-width="1.8"/>
+<circle cx="200" cy="105" r="20" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.8"/>
+<text xml:space="preserve" x="200" y="109.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">A</text>
+<circle cx="110" cy="180" r="20" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.8"/>
+<text xml:space="preserve" x="110" y="184.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">B</text>
+<circle cx="290" cy="180" r="20" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.8"/>
+<text xml:space="preserve" x="290" y="184.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">C</text>
+<circle cx="60" cy="260" r="20" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.8"/>
+<text xml:space="preserve" x="60" y="264.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">D</text>
+<circle cx="160" cy="260" r="20" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.8"/>
+<text xml:space="preserve" x="160" y="264.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">E</text>
+<circle cx="290" cy="260" r="20" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.8"/>
+<text xml:space="preserve" x="290" y="264.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">F</text>
+<text xml:space="preserve" x="200" y="308" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Visit order: A → B → C → D → E → F</text>
+<text xml:space="preserve" x="222" y="89" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#C94343" font-weight="700">1</text>
+<text xml:space="preserve" x="132" y="164" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#C94343" font-weight="700">2</text>
+<text xml:space="preserve" x="312" y="164" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#C94343" font-weight="700">3</text>
+<text xml:space="preserve" x="82" y="244" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#C94343" font-weight="700">4</text>
+<text xml:space="preserve" x="182" y="244" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#C94343" font-weight="700">5</text>
+<text xml:space="preserve" x="312" y="244" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#C94343" font-weight="700">6</text>
+<text xml:space="preserve" x="590" y="58" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">DFS (uses a stack)</text>
+<line x1="574.6355744080524" y1="117.8036879932896" x2="516.1326468715449" y2="166.55612760704594" stroke="#5B6672" stroke-width="1.8"/>
+<line x1="605.3644255919476" y1="117.8036879932896" x2="663.8673531284551" y2="166.55612760704594" stroke="#5B6672" stroke-width="1.8"/>
+<line x1="489.4000211999364" y1="196.95996608010176" x2="461.1299777400668" y2="242.19203561589316" stroke="#5B6672" stroke-width="1.8"/>
+<line x1="510.5999788000636" y1="196.95996608010176" x2="538.8700222599332" y2="242.19203561589316" stroke="#5B6672" stroke-width="1.8"/>
+<line x1="680.0" y1="200.0" x2="680.0" y2="239.0" stroke="#5B6672" stroke-width="1.8"/>
+<circle cx="590" cy="105" r="20" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.8"/>
+<text xml:space="preserve" x="590" y="109.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">A</text>
+<circle cx="500" cy="180" r="20" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.8"/>
+<text xml:space="preserve" x="500" y="184.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">B</text>
+<circle cx="680" cy="180" r="20" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.8"/>
+<text xml:space="preserve" x="680" y="184.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">C</text>
+<circle cx="450" cy="260" r="20" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.8"/>
+<text xml:space="preserve" x="450" y="264.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">D</text>
+<circle cx="550" cy="260" r="20" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.8"/>
+<text xml:space="preserve" x="550" y="264.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">E</text>
+<circle cx="680" cy="260" r="20" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.8"/>
+<text xml:space="preserve" x="680" y="264.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">F</text>
+<text xml:space="preserve" x="590" y="308" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Visit order: A → B → D → E → C → F</text>
+<text xml:space="preserve" x="612" y="89" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#C94343" font-weight="700">1</text>
+<text xml:space="preserve" x="522" y="164" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#C94343" font-weight="700">2</text>
+<text xml:space="preserve" x="472" y="244" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#C94343" font-weight="700">3</text>
+<text xml:space="preserve" x="572" y="244" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#C94343" font-weight="700">4</text>
+<text xml:space="preserve" x="702" y="164" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#C94343" font-weight="700">5</text>
+<text xml:space="preserve" x="702" y="244" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#C94343" font-weight="700">6</text>
+</svg>

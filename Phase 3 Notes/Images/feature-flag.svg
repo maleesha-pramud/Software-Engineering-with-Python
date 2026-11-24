@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="220" viewBox="0 0 760 220">
+<rect x="1" y="1" width="758" height="218" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="380.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Feature flags: deploy the code now, turn it on later</text>
+<rect x="40" y="80" width="170" height="60" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="125.0" y="114.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">New code, live</text>
+<rect x="280" y="80" width="150" height="60" rx="6" fill="#FFF4C2" stroke="#B58900" stroke-width="1.6"/>
+<text xml:space="preserve" x="355.0" y="115.6" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" text-anchor="middle" fill="#1F2933" font-weight="700">Flag?</text>
+<line x1="210" y1="110" x2="278" y2="110" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="278.0,110.0 269.9,113.9 269.9,106.1" fill="#1F2933"/>
+<rect x="520" y="62" width="200" height="44" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="620.0" y="88.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">On: new checkout</text>
+<rect x="520" y="122" width="200" height="44" rx="6" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="620.0" y="148.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Off: old checkout</text>
+<line x1="430" y1="100" x2="518" y2="84" stroke="#2E8B57" stroke-width="1.8"/>
+<polygon points="518.0,84.0 510.7,89.3 509.3,81.6" fill="#2E8B57"/>
+<line x1="430" y1="120" x2="518" y2="144" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="518.0,144.0 509.2,145.6 511.2,138.1" fill="#5B6672"/>
+<text xml:space="preserve" x="380" y="198" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933">Try it on 1% of users. If something breaks, turn it off without a new deploy.</text>
+</svg>

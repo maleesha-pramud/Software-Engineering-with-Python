@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="280" viewBox="0 0 760 280">
+<rect x="1" y="1" width="758" height="278" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="380.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Offset and cursor pagination</text>
+<text xml:space="preserve" x="190" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Offset: skip N rows</text>
+<rect x="35" y="76" width="52" height="42" rx="2" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="61.0" y="102.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">A</text>
+<rect x="87" y="76" width="52" height="42" rx="2" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="113.0" y="102.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">B</text>
+<rect x="139" y="76" width="52" height="42" rx="2" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="165.0" y="102.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">C</text>
+<rect x="191" y="76" width="52" height="42" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="217.0" y="102.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">D</text>
+<rect x="243" y="76" width="52" height="42" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="269.0" y="102.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">E</text>
+<rect x="295" y="76" width="52" height="42" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="321.0" y="102.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">F</text>
+<text xml:space="preserve" x="190" y="145" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="middle" fill="#1F2933">?offset=3&amp;limit=3</text>
+<text xml:space="preserve" x="190" y="175" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#2E8B57">Simple, and allows jumping to a page</text>
+<text xml:space="preserve" x="190" y="197" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#C94343">Slow when deep. Rows shift if data changes</text>
+<text xml:space="preserve" x="570" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Cursor: start after this row</text>
+<rect x="415" y="76" width="52" height="42" rx="2" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="441.0" y="102.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">A</text>
+<rect x="467" y="76" width="52" height="42" rx="2" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="493.0" y="102.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">B</text>
+<rect x="519" y="76" width="52" height="42" rx="2" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="545.0" y="102.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">C</text>
+<rect x="571" y="76" width="52" height="42" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="597.0" y="102.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">D</text>
+<rect x="623" y="76" width="52" height="42" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="649.0" y="102.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">E</text>
+<rect x="675" y="76" width="52" height="42" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="701.0" y="102.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">F</text>
+<text xml:space="preserve" x="570" y="145" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="middle" fill="#1F2933">?after=C&amp;limit=3</text>
+<text xml:space="preserve" x="570" y="175" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#2E8B57">Fast and stable at any depth</text>
+<text xml:space="preserve" x="570" y="197" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#C94343">You can&#x27;t jump straight to page 50</text>
+<text xml:space="preserve" x="380" y="250" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Use offset for small admin lists. Use cursor for feeds and large data.</text>
+</svg>

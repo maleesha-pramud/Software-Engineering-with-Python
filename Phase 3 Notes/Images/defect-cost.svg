@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="300" viewBox="0 0 740 300">
+<rect x="1" y="1" width="738" height="298" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="370.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">The later you find a bug, the more it costs</text>
+<rect x="70" y="242" width="92" height="8" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="116" y="272" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Design</text>
+<rect x="195" y="228" width="92" height="22" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="241" y="272" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Coding</text>
+<rect x="320" y="195" width="92" height="55" rx="2" fill="#FFF4C2" stroke="#B58900" stroke-width="1.6"/>
+<text xml:space="preserve" x="366" y="272" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Testing</text>
+<rect x="445" y="140" width="92" height="110" rx="2" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="491" y="272" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Staging</text>
+<rect x="570" y="60" width="92" height="190" rx="2" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="616" y="272" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Production</text>
+<line x1="50" y1="250" x2="700" y2="250" stroke="#5B6672" stroke-width="1.8"/>
+<text xml:space="preserve" x="370" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">Illustrative shape, not exact numbers</text>
+</svg>

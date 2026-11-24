@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="270" viewBox="0 0 760 270">
+<rect x="1" y="1" width="758" height="268" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="380.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Dependency Inversion: both sides depend on an abstraction</text>
+<text xml:space="preserve" x="190" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#C94343" font-weight="700">Before</text>
+<rect x="90" y="80" width="200" height="50" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="190.0" y="109.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">OrderService</text>
+<rect x="90" y="190" width="200" height="50" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="190.0" y="219.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">MySqlDatabase</text>
+<line x1="190" y1="130" x2="190" y2="188" stroke="#C94343" stroke-width="2.4"/>
+<polygon points="190.0,188.0 186.1,179.9 193.9,179.9" fill="#C94343"/>
+<text xml:space="preserve" x="200" y="165" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="start" fill="#C94343" font-weight="700">tied to MySQL</text>
+<text xml:space="preserve" x="570" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#2E8B57" font-weight="700">After</text>
+<rect x="470" y="76" width="200" height="44" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="570.0" y="102.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">OrderService</text>
+<rect x="470" y="142" width="200" height="44" rx="6" fill="#EAE3F8" stroke="#7452B8" stroke-width="1.6"/>
+<text xml:space="preserve" x="570.0" y="168.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">OrderStore (interface)</text>
+<rect x="405" y="215" width="150" height="44" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="480.0" y="241.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">MySqlStore</text>
+<rect x="585" y="215" width="150" height="44" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="660.0" y="241.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">MemoryStore</text>
+<line x1="570" y1="120" x2="570" y2="140" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="570.0,140.0 566.1,131.9 573.9,131.9" fill="#1F2933"/>
+<line x1="480" y1="215" x2="545" y2="188" stroke="#2E8B57" stroke-width="2.4"/>
+<polygon points="545.0,188.0 539.0,194.7 536.0,187.5" fill="#2E8B57"/>
+<line x1="660" y1="215" x2="595" y2="188" stroke="#2E8B57" stroke-width="2.4"/>
+<polygon points="595.0,188.0 604.0,187.5 601.0,194.7" fill="#2E8B57"/>
+</svg>

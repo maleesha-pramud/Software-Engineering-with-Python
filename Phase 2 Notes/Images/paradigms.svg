@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230">
+<rect x="1" y="1" width="758" height="228" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="380.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">One job, three styles: add up the even numbers</text>
+<text xml:space="preserve" x="137" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Procedural: how, step by step</text>
+<rect x="25" y="76" width="225" height="130" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="41" y="104" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="start" fill="#1F2933">total = 0</text>
+<text xml:space="preserve" x="41" y="129" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="start" fill="#1F2933">for n in nums:</text>
+<text xml:space="preserve" x="41" y="154" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="start" fill="#1F2933">  if n % 2 == 0:</text>
+<text xml:space="preserve" x="41" y="179" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="start" fill="#1F2933">    total += n</text>
+<text xml:space="preserve" x="382" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Functional: flow of data</text>
+<rect x="270" y="76" width="225" height="130" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="286" y="104" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="start" fill="#1F2933">sum(</text>
+<text xml:space="preserve" x="286" y="129" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="start" fill="#1F2933">  filter(is_even,</text>
+<text xml:space="preserve" x="286" y="154" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="start" fill="#1F2933">         nums)</text>
+<text xml:space="preserve" x="286" y="179" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="start" fill="#1F2933">)</text>
+<text xml:space="preserve" x="627" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Declarative: what you want</text>
+<rect x="515" y="76" width="225" height="130" rx="6" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="531" y="104" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="start" fill="#1F2933">SELECT SUM(n)</text>
+<text xml:space="preserve" x="531" y="129" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="start" fill="#1F2933">FROM nums</text>
+<text xml:space="preserve" x="531" y="154" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="start" fill="#1F2933">WHERE n % 2 = 0;</text>
+<text xml:space="preserve" x="531" y="179" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="start" fill="#1F2933"></text>
+</svg>

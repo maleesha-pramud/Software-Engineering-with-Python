@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="370" viewBox="0 0 720 370">
+<rect x="1" y="1" width="718" height="368" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="360.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Search a BST for 6: every step skips half the tree</text>
+<line x1="342.1114561800017" y1="83.94427190999916" x2="228.78297101099824" y2="140.6085144945009" stroke="#D97A1E" stroke-width="3.2"/>
+<line x1="377.8885438199983" y1="83.94427190999916" x2="491.2170289890018" y2="140.6085144945009" stroke="#5B6672" stroke-width="1.8"/>
+<line x1="195.4092559171983" y1="163.6788225776266" x2="145.3202812869418" y2="210.63723629349207" stroke="#5B6672" stroke-width="1.8"/>
+<line x1="224.5907440828017" y1="163.6788225776266" x2="274.6797187130582" y2="210.63723629349207" stroke="#D97A1E" stroke-width="3.2"/>
+<line x1="524.5907440828017" y1="163.6788225776266" x2="574.6797187130583" y2="210.63723629349207" stroke="#5B6672" stroke-width="1.8"/>
+<line x1="278.9059960754954" y1="241.6410058867569" x2="251.6487041207298" y2="282.5269438189053" stroke="#5B6672" stroke-width="1.8"/>
+<line x1="301.0940039245046" y1="241.6410058867569" x2="328.3512958792702" y2="282.5269438189053" stroke="#5B6672" stroke-width="1.8"/>
+<circle cx="360" cy="75" r="20" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.8"/>
+<text xml:space="preserve" x="360" y="79.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">8</text>
+<circle cx="210" cy="150" r="20" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.8"/>
+<text xml:space="preserve" x="210" y="154.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">3</text>
+<circle cx="510" cy="150" r="20" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="510" y="154.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">10</text>
+<circle cx="130" cy="225" r="20" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="130" y="229.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">1</text>
+<circle cx="290" cy="225" r="20" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.8"/>
+<text xml:space="preserve" x="290" y="229.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">6</text>
+<circle cx="590" cy="225" r="20" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="590" y="229.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">14</text>
+<circle cx="240" cy="300" r="20" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="240" y="304.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">4</text>
+<circle cx="340" cy="300" r="20" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="340" y="304.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">7</text>
+<text xml:space="preserve" x="420" y="70" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="start" fill="#1F2933" font-weight="700">6 &lt; 8, so go left</text>
+<text xml:space="preserve" x="115" y="145" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">6 &gt; 3, so go right</text>
+<text xml:space="preserve" x="360" y="355" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#5B6672">Rule: everything left is smaller, everything right is bigger.</text>
+</svg>

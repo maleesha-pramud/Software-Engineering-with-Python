@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="220" viewBox="0 0 780 220">
+<rect x="1" y="1" width="778" height="218" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="390.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">A covering index answers the query without touching the table</text>
+<text xml:space="preserve" x="390" y="60" font-family="Consolas,Menlo,monospace" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">SELECT email, name FROM users WHERE email = ?</text>
+<rect x="40" y="80" width="170" height="70" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="125.0" y="111.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Index (email)</text>
+<text xml:space="preserve" x="125.0" y="130.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">finds the row</text>
+<line x1="210" y1="115" x2="288" y2="115" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="288.0,115.0 279.9,118.9 279.9,111.1" fill="#1F2933"/>
+<rect x="290" y="80" width="100" height="70" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="340.0" y="111.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Table</text>
+<text xml:space="preserve" x="340.0" y="130.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">extra read</text>
+<rect x="450" y="80" width="280" height="70" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="590.0" y="111.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Index (email, name)</text>
+<text xml:space="preserve" x="590.0" y="130.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">the answer is already inside</text>
+<text xml:space="preserve" x="215" y="176" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#C94343" font-weight="700">Two steps</text>
+<text xml:space="preserve" x="590" y="176" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#2E8B57" font-weight="700">One step</text>
+</svg>

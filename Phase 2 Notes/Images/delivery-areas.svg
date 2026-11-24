@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="250" viewBox="0 0 780 250">
+<rect x="1" y="1" width="778" height="248" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="390.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Pick one area to go deep</text>
+<rect x="25" y="60" width="234" height="78" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="142.0" y="96.6" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" text-anchor="middle" fill="#1F2933" font-weight="700">Frontend</text>
+<text xml:space="preserve" x="142.0" y="114.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">what users see: web pages</text>
+<rect x="273" y="60" width="234" height="78" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="390.0" y="96.6" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" text-anchor="middle" fill="#1F2933" font-weight="700">Backend</text>
+<text xml:space="preserve" x="390.0" y="114.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">servers, APIs, data</text>
+<rect x="521" y="60" width="234" height="78" rx="6" fill="#EAE3F8" stroke="#7452B8" stroke-width="1.6"/>
+<text xml:space="preserve" x="638.0" y="96.6" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" text-anchor="middle" fill="#1F2933" font-weight="700">Mobile</text>
+<text xml:space="preserve" x="638.0" y="114.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">phone apps</text>
+<rect x="25" y="152" width="234" height="78" rx="6" fill="#FFF4C2" stroke="#B58900" stroke-width="1.6"/>
+<text xml:space="preserve" x="142.0" y="188.6" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" text-anchor="middle" fill="#1F2933" font-weight="700">Data</text>
+<text xml:space="preserve" x="142.0" y="206.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">pipelines and analytics</text>
+<rect x="273" y="152" width="234" height="78" rx="6" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="390.0" y="188.6" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" text-anchor="middle" fill="#1F2933" font-weight="700">Embedded</text>
+<text xml:space="preserve" x="390.0" y="206.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">code for devices</text>
+<rect x="521" y="152" width="234" height="78" rx="6" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="638.0" y="188.6" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" text-anchor="middle" fill="#1F2933" font-weight="700">Other paths</text>
+<text xml:space="preserve" x="638.0" y="206.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">games, security, ML...</text>
+</svg>

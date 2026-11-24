@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="200" viewBox="0 0 700 200">
+<rect x="1" y="1" width="698" height="198" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="350.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Union-find: which group is each item in?</text>
+<text xml:space="preserve" x="175" y="60" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Before: 3 groups</text>
+<circle cx="80" cy="110" r="20" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="80" y="114.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">A</text>
+<circle cx="180" cy="110" r="20" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.8"/>
+<text xml:space="preserve" x="180" y="114.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">B</text>
+<circle cx="280" cy="110" r="20" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.8"/>
+<text xml:space="preserve" x="280" y="114.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">C</text>
+<line x1="330" y1="110" x2="390" y2="110" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="390.0,110.0 381.9,113.9 381.9,106.1" fill="#5B6672"/>
+<text xml:space="preserve" x="360.0" y="104.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#1F2933" font-weight="700">union(A, B)</text>
+<text xml:space="preserve" x="540" y="60" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">After: 2 groups</text>
+<line x1="470.0" y1="140.0" x2="470.0" y2="111.0" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="470.0,111.0 473.9,119.1 466.1,119.1" fill="#5B6672"/>
+<circle cx="470" cy="90" r="20" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="470" y="94.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">A</text>
+<circle cx="470" cy="160" r="20" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="470" y="164.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">B</text>
+<circle cx="620" cy="110" r="20" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.8"/>
+<text xml:space="preserve" x="620" y="114.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">C</text>
+</svg>

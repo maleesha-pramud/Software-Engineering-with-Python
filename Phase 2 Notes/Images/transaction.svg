@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="240" viewBox="0 0 760 240">
+<rect x="1" y="1" width="758" height="238" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="380.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">A transaction: all of it happens, or none of it</text>
+<text xml:space="preserve" x="190" y="60" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#2E8B57" font-weight="700">Success: COMMIT</text>
+<rect x="35" y="74" width="145" height="44" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="107.5" y="100.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Sam − 100</text>
+<rect x="200" y="74" width="145" height="44" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="272.5" y="100.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Priya + 100</text>
+<line x1="180" y1="96" x2="198" y2="96" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="198.0,96.0 189.9,99.9 189.9,92.1" fill="#5B6672"/>
+<text xml:space="preserve" x="190" y="150" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#5B6672">Both saved</text>
+<text xml:space="preserve" x="570" y="60" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#C94343" font-weight="700">Crash halfway: ROLLBACK</text>
+<rect x="415" y="74" width="145" height="44" rx="6" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="487.5" y="100.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Sam − 100</text>
+<rect x="580" y="74" width="145" height="44" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="652.5" y="100.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">CRASH</text>
+<line x1="560" y1="96" x2="578" y2="96" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="578.0,96.0 569.9,99.9 569.9,92.1" fill="#5B6672"/>
+<text xml:space="preserve" x="570" y="150" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#5B6672">Sam&#x27;s money is put back</text>
+<text xml:space="preserve" x="380" y="205" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Without this, the money could simply disappear.</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="230" viewBox="0 0 720 230">
+<rect x="1" y="1" width="718" height="228" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="360.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Polymorphism: one call, each object answers its own way</text>
+<rect x="30" y="100" width="150" height="50" rx="6" fill="#EAE3F8" stroke="#7452B8" stroke-width="1.6"/>
+<text xml:space="preserve" x="105.0" y="129.55" font-family="Consolas,Menlo,monospace" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">shape.area()</text>
+<line x1="180" y1="125" x2="270" y2="78" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="270.0,78.0 264.6,85.2 261.0,78.3" fill="#5B6672"/>
+<rect x="270" y="56" width="130" height="44" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="335.0" y="82.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Circle</text>
+<text xml:space="preserve" x="500" y="83" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="middle" fill="#1F2933">π × r²</text>
+<rect x="590" y="60" width="90" height="36" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="635.0" y="82.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">12.56</text>
+<line x1="180" y1="125" x2="270" y2="134" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="270.0,134.0 261.5,137.1 262.3,129.3" fill="#5B6672"/>
+<rect x="270" y="112" width="130" height="44" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="335.0" y="138.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Square</text>
+<text xml:space="preserve" x="500" y="139" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="middle" fill="#1F2933">side²</text>
+<rect x="590" y="116" width="90" height="36" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="635.0" y="138.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">9</text>
+<line x1="180" y1="125" x2="270" y2="190" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="270.0,190.0 261.1,188.4 265.7,182.1" fill="#5B6672"/>
+<rect x="270" y="168" width="130" height="44" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="335.0" y="194.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Triangle</text>
+<text xml:space="preserve" x="500" y="195" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="middle" fill="#1F2933">½ × b × h</text>
+<rect x="590" y="172" width="90" height="36" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="635.0" y="194.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">6</text>
+</svg>

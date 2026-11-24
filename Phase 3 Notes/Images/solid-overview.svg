@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="300" viewBox="0 0 780 300">
+<rect x="1" y="1" width="778" height="298" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="390.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">SOLID in one picture</text>
+<rect x="22" y="66" width="138" height="100" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="91.0" y="118.5" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="30" text-anchor="middle" fill="#1F2933" font-weight="700">S</text>
+<text xml:space="preserve" x="91.0" y="131.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">One reason to change</text>
+<rect x="172" y="66" width="138" height="100" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="241.0" y="118.5" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="30" text-anchor="middle" fill="#1F2933" font-weight="700">O</text>
+<text xml:space="preserve" x="241.0" y="131.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">Add, don&#x27;t edit</text>
+<rect x="322" y="66" width="138" height="100" rx="6" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="391.0" y="118.5" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="30" text-anchor="middle" fill="#1F2933" font-weight="700">L</text>
+<text xml:space="preserve" x="391.0" y="131.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">Children keep promises</text>
+<rect x="472" y="66" width="138" height="100" rx="6" fill="#EAE3F8" stroke="#7452B8" stroke-width="1.6"/>
+<text xml:space="preserve" x="541.0" y="118.5" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="30" text-anchor="middle" fill="#1F2933" font-weight="700">I</text>
+<text xml:space="preserve" x="541.0" y="131.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">Small interfaces</text>
+<rect x="622" y="66" width="138" height="100" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="691.0" y="118.5" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="30" text-anchor="middle" fill="#1F2933" font-weight="700">D</text>
+<text xml:space="preserve" x="691.0" y="131.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">Depend on abstractions</text>
+<text xml:space="preserve" x="91" y="196" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Single</text>
+<text xml:space="preserve" x="241" y="196" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Open/</text>
+<text xml:space="preserve" x="391" y="196" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Liskov</text>
+<text xml:space="preserve" x="541" y="196" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Interface</text>
+<text xml:space="preserve" x="691" y="196" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Dependency</text>
+<text xml:space="preserve" x="91" y="216" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Responsibility</text>
+<text xml:space="preserve" x="241" y="216" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Closed</text>
+<text xml:space="preserve" x="391" y="216" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Substitution</text>
+<text xml:space="preserve" x="541" y="216" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Segregation</text>
+<text xml:space="preserve" x="691" y="216" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Inversion</text>
+<text xml:space="preserve" x="390" y="262" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933">They are guidelines for managing change, not laws. Apply them when they reduce pain.</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="250" viewBox="0 0 780 250">
+<rect x="1" y="1" width="778" height="248" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="390.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">SQL injection: when data becomes a command</text>
+<text xml:space="preserve" x="390" y="62" font-family="Consolas,Menlo,monospace" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">The user types as their name:    &#x27; OR &#x27;1&#x27;=&#x27;1</text>
+<rect x="30" y="80" width="720" height="62" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="50" y="106" font-family="Consolas,Menlo,monospace" font-size="13" text-anchor="start" fill="#1F2933">query = &quot;SELECT * FROM users WHERE name = &#x27;&quot; + name + &quot;&#x27;&quot;</text>
+<text xml:space="preserve" x="50" y="128" font-family="Consolas,Menlo,monospace" font-size="13" text-anchor="start" fill="#C94343" font-weight="700">SELECT * FROM users WHERE name = &#x27;&#x27; OR &#x27;1&#x27;=&#x27;1&#x27;    ← returns everyone</text>
+<rect x="30" y="158" width="720" height="62" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="50" y="184" font-family="Consolas,Menlo,monospace" font-size="13" text-anchor="start" fill="#1F2933">db.execute(&quot;SELECT * FROM users WHERE name = ?&quot;, (name,))</text>
+<text xml:space="preserve" x="50" y="206" font-family="Consolas,Menlo,monospace" font-size="13" text-anchor="start" fill="#2E8B57" font-weight="700">The input stays plain data, so it just finds no user with that odd name</text>
+</svg>

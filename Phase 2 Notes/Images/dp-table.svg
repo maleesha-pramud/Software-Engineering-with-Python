@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="200" viewBox="0 0 720 200">
+<rect x="1" y="1" width="718" height="198" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="360.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Fill a table once, and reuse earlier answers</text>
+<rect x="50" y="75" width="78" height="50" rx="2" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="89.0" y="105.95" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" text-anchor="middle" fill="#1F2933" font-weight="700">0</text>
+<text xml:space="preserve" x="89.0" y="142" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">0</text>
+<rect x="128" y="75" width="78" height="50" rx="2" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="167.0" y="105.95" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" text-anchor="middle" fill="#1F2933" font-weight="700">1</text>
+<text xml:space="preserve" x="167.0" y="142" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">1</text>
+<rect x="206" y="75" width="78" height="50" rx="2" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="245.0" y="105.95" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" text-anchor="middle" fill="#1F2933" font-weight="700">1</text>
+<text xml:space="preserve" x="245.0" y="142" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">2</text>
+<rect x="284" y="75" width="78" height="50" rx="2" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="323.0" y="105.95" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" text-anchor="middle" fill="#1F2933" font-weight="700">2</text>
+<text xml:space="preserve" x="323.0" y="142" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">3</text>
+<rect x="362" y="75" width="78" height="50" rx="2" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="401.0" y="105.95" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" text-anchor="middle" fill="#1F2933" font-weight="700">3</text>
+<text xml:space="preserve" x="401.0" y="142" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">4</text>
+<rect x="440" y="75" width="78" height="50" rx="2" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="479.0" y="105.95" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" text-anchor="middle" fill="#1F2933" font-weight="700">5</text>
+<text xml:space="preserve" x="479.0" y="142" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">5</text>
+<rect x="518" y="75" width="78" height="50" rx="2" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="557.0" y="105.95" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" text-anchor="middle" fill="#1F2933" font-weight="700">8</text>
+<text xml:space="preserve" x="557.0" y="142" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">6</text>
+<rect x="596" y="75" width="78" height="50" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="635.0" y="105.95" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" text-anchor="middle" fill="#1F2933" font-weight="700">13</text>
+<text xml:space="preserve" x="635.0" y="142" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">7</text>
+<text xml:space="preserve" x="360" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">fib[7] = fib[5] + fib[6]  →  5 + 8 = 13</text>
+<text xml:space="preserve" x="360" y="170" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#5B6672">Each box is computed once, so the work is O(n), not O(2ⁿ).</text>
+</svg>

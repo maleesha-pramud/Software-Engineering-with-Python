@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="210" viewBox="0 0 720 210">
+<rect x="1" y="1" width="718" height="208" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="360.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Locality: side-by-side data is much faster</text>
+<text xml:space="preserve" x="190" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#2E8B57" font-weight="700">Array: the next item is already in cache</text>
+<rect x="50" y="78" width="56" height="42" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="78.0" y="104.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">A</text>
+<rect x="106" y="78" width="56" height="42" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="134.0" y="104.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">B</text>
+<rect x="162" y="78" width="56" height="42" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="190.0" y="104.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">C</text>
+<rect x="218" y="78" width="56" height="42" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="246.0" y="104.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">D</text>
+<rect x="274" y="78" width="56" height="42" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="302.0" y="104.25" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">E</text>
+<text xml:space="preserve" x="190" y="145" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">One memory read loads the whole cache line.</text>
+<text xml:space="preserve" x="540" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#C94343" font-weight="700">Linked list: every node may miss</text>
+<rect x="400" y="85" width="40" height="34" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="420.0" y="106.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">A</text>
+<rect x="480" y="125" width="40" height="34" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="500.0" y="146.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">B</text>
+<rect x="555" y="80" width="40" height="34" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="575.0" y="101.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">C</text>
+<rect x="625" y="130" width="40" height="34" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="645.0" y="151.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">D</text>
+<line x1="440" y1="102" x2="480" y2="135" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="480.0,135.0 471.3,132.9 476.2,126.8" fill="#5B6672"/>
+<line x1="520" y1="135" x2="555" y2="104" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="555.0,104.0 551.5,112.3 546.3,106.4" fill="#5B6672"/>
+<line x1="595" y1="100" x2="625" y2="140" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="625.0,140.0 617.0,135.9 623.3,131.2" fill="#5B6672"/>
+<text xml:space="preserve" x="540" y="190" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">Each hop can mean a slow trip to RAM.</text>
+</svg>

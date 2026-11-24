@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230">
+<rect x="1" y="1" width="758" height="228" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="380.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Topological order: do each task after what it needs</text>
+<rect x="22" y="70" width="96" height="40" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="70.0" y="94.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Shirt</text>
+<rect x="22" y="150" width="96" height="40" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="70.0" y="174.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Socks</text>
+<rect x="202" y="70" width="96" height="40" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="250.0" y="94.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Tie</text>
+<rect x="202" y="150" width="96" height="40" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="250.0" y="174.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Shoes</text>
+<rect x="382" y="70" width="96" height="40" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="430.0" y="94.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Jacket</text>
+<line x1="118" y1="90" x2="202" y2="90" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="202.0,90.0 193.9,93.9 193.9,86.1" fill="#5B6672"/>
+<line x1="118" y1="170" x2="202" y2="170" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="202.0,170.0 193.9,173.9 193.9,166.1" fill="#5B6672"/>
+<line x1="298" y1="90" x2="382" y2="90" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="382.0,90.0 373.9,93.9 373.9,86.1" fill="#5B6672"/>
+<text xml:space="preserve" x="620" y="76" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">One valid order</text>
+<rect x="560" y="88" width="120" height="24" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="620.0" y="104.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">1. Shirt</text>
+<rect x="560" y="114" width="120" height="24" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="620.0" y="130.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">2. Socks</text>
+<rect x="560" y="140" width="120" height="24" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="620.0" y="156.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">3. Tie</text>
+<rect x="560" y="166" width="120" height="24" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="620.0" y="182.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">4. Shoes</text>
+<rect x="560" y="192" width="120" height="24" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="620.0" y="208.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">5. Jacket</text>
+<text xml:space="preserve" x="250" y="215" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">Arrows go from &#x27;first&#x27; to &#x27;after&#x27;. Cycles make this impossible.</text>
+</svg>

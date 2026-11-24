@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="250" viewBox="0 0 780 250">
+<rect x="1" y="1" width="778" height="248" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="390.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Continuous integration, delivery and deployment</text>
+<text xml:space="preserve" x="240" y="66" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672" font-weight="700">Merge</text>
+<text xml:space="preserve" x="325" y="66" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672" font-weight="700">Test</text>
+<text xml:space="preserve" x="410" y="66" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672" font-weight="700">Package</text>
+<text xml:space="preserve" x="495" y="66" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672" font-weight="700">Staging</text>
+<text xml:space="preserve" x="580" y="66" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672" font-weight="700">Production</text>
+<text xml:space="preserve" x="22" y="104" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="start" fill="#1F2933" font-weight="700">Continuous integration</text>
+<rect x="200" y="78" width="80" height="40" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="240.0" y="102.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">auto</text>
+<rect x="285" y="78" width="80" height="40" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="325.0" y="102.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">auto</text>
+<rect x="370" y="78" width="80" height="40" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="410.0" y="102.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">auto</text>
+<rect x="455" y="78" width="80" height="40" rx="2" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="495.0" y="102.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933">manual</text>
+<rect x="540" y="78" width="80" height="40" rx="2" fill="#FFFFFF" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="580.0" y="102.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933">manual</text>
+<text xml:space="preserve" x="22" y="158" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="start" fill="#1F2933" font-weight="700">Continuous delivery</text>
+<rect x="200" y="132" width="80" height="40" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="240.0" y="156.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">auto</text>
+<rect x="285" y="132" width="80" height="40" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="325.0" y="156.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">auto</text>
+<rect x="370" y="132" width="80" height="40" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="410.0" y="156.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">auto</text>
+<rect x="455" y="132" width="80" height="40" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="495.0" y="156.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">auto</text>
+<rect x="540" y="132" width="80" height="40" rx="2" fill="#FFF4C2" stroke="#B58900" stroke-width="1.6"/>
+<text xml:space="preserve" x="580.0" y="156.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">button</text>
+<text xml:space="preserve" x="22" y="212" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="start" fill="#1F2933" font-weight="700">Continuous deployment</text>
+<rect x="200" y="186" width="80" height="40" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="240.0" y="210.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">auto</text>
+<rect x="285" y="186" width="80" height="40" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="325.0" y="210.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">auto</text>
+<rect x="370" y="186" width="80" height="40" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="410.0" y="210.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">auto</text>
+<rect x="455" y="186" width="80" height="40" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="495.0" y="210.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">auto</text>
+<rect x="540" y="186" width="80" height="40" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="580.0" y="210.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">auto</text>
+</svg>

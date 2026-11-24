@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="330" viewBox="0 0 780 330">
+<rect x="1" y="1" width="778" height="328" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="390.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">A hash table: a function turns a key into a box number</text>
+<text xml:space="preserve" x="85" y="64" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Keys</text>
+<text xml:space="preserve" x="330" y="64" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Hash function</text>
+<text xml:space="preserve" x="525" y="64" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Boxes</text>
+<rect x="30" y="80" width="110" height="38" rx="6" fill="#FFF4C2" stroke="#B58900" stroke-width="1.6"/>
+<text xml:space="preserve" x="85.0" y="103.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">apple</text>
+<line x1="140" y1="99" x2="250" y2="170" stroke="#B9C0C9" stroke-width="1.4"/>
+<polygon points="250.0,170.0 241.1,168.9 245.3,162.3" fill="#B9C0C9"/>
+<rect x="30" y="132" width="110" height="38" rx="6" fill="#FFF4C2" stroke="#B58900" stroke-width="1.6"/>
+<text xml:space="preserve" x="85.0" y="155.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">mango</text>
+<line x1="140" y1="151" x2="250" y2="170" stroke="#B9C0C9" stroke-width="1.4"/>
+<polygon points="250.0,170.0 241.3,172.5 242.7,164.8" fill="#B9C0C9"/>
+<rect x="30" y="184" width="110" height="38" rx="6" fill="#FFF4C2" stroke="#B58900" stroke-width="1.6"/>
+<text xml:space="preserve" x="85.0" y="207.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">kiwi</text>
+<line x1="140" y1="203" x2="250" y2="170" stroke="#B9C0C9" stroke-width="1.4"/>
+<polygon points="250.0,170.0 243.4,176.1 241.1,168.6" fill="#B9C0C9"/>
+<rect x="30" y="236" width="110" height="38" rx="6" fill="#FFF4C2" stroke="#B58900" stroke-width="1.6"/>
+<text xml:space="preserve" x="85.0" y="259.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">grape</text>
+<line x1="140" y1="255" x2="250" y2="170" stroke="#B9C0C9" stroke-width="1.4"/>
+<polygon points="250.0,170.0 246.0,178.1 241.2,171.9" fill="#B9C0C9"/>
+<rect x="250" y="120" width="160" height="100" rx="6" fill="#EAE3F8" stroke="#7452B8" stroke-width="1.6"/>
+<text xml:space="preserve" x="330.0" y="166.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">hash(key) % 5</text>
+<text xml:space="preserve" x="330.0" y="185.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">same key → same box</text>
+<rect x="495" y="74" width="60" height="40" rx="2" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="525.0" y="98.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">0</text>
+<line x1="410" y1="170" x2="495" y2="94" stroke="#B9C0C9" stroke-width="1.4"/>
+<polygon points="495.0,94.0 491.6,102.3 486.3,96.5" fill="#B9C0C9"/>
+<line x1="555" y1="94" x2="577" y2="94" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="577.0,94.0 568.9,97.9 568.9,90.1" fill="#5B6672"/>
+<rect x="577" y="76" width="72" height="36" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="613.0" y="98.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">mango</text>
+<rect x="495" y="122" width="60" height="40" rx="2" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="525.0" y="146.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">1</text>
+<line x1="410" y1="170" x2="495" y2="142" stroke="#B9C0C9" stroke-width="1.4"/>
+<polygon points="495.0,142.0 488.5,148.3 486.1,140.8" fill="#B9C0C9"/>
+<rect x="495" y="170" width="60" height="40" rx="2" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="525.0" y="194.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">2</text>
+<line x1="410" y1="170" x2="495" y2="190" stroke="#B9C0C9" stroke-width="1.4"/>
+<polygon points="495.0,190.0 486.2,192.0 488.0,184.3" fill="#B9C0C9"/>
+<line x1="555" y1="190" x2="577" y2="190" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="577.0,190.0 568.9,193.9 568.9,186.1" fill="#5B6672"/>
+<rect x="577" y="172" width="72" height="36" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="613.0" y="194.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">apple</text>
+<line x1="649" y1="190" x2="671" y2="190" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="671.0,190.0 662.9,193.9 662.9,186.1" fill="#5B6672"/>
+<rect x="671" y="172" width="72" height="36" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="707.0" y="194.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">kiwi</text>
+<rect x="495" y="218" width="60" height="40" rx="2" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="525.0" y="242.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">3</text>
+<line x1="410" y1="170" x2="495" y2="238" stroke="#B9C0C9" stroke-width="1.4"/>
+<polygon points="495.0,238.0 486.2,236.0 491.1,229.9" fill="#B9C0C9"/>
+<rect x="495" y="266" width="60" height="40" rx="2" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="525.0" y="290.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">4</text>
+<line x1="410" y1="170" x2="495" y2="286" stroke="#B9C0C9" stroke-width="1.4"/>
+<polygon points="495.0,286.0 487.1,281.8 493.4,277.1" fill="#B9C0C9"/>
+<line x1="555" y1="286" x2="577" y2="286" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="577.0,286.0 568.9,289.9 568.9,282.1" fill="#5B6672"/>
+<rect x="577" y="268" width="72" height="36" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="613.0" y="290.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">grape</text>
+<text xml:space="preserve" x="390" y="318" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#C94343">apple and kiwi landed in box 2: a collision. Both stay in a small chain.</text>
+</svg>

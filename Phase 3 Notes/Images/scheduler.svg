@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="240" viewBox="0 0 760 240">
+<rect x="1" y="1" width="758" height="238" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="380.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">The scheduler shares one CPU core by taking turns</text>
+<text xml:space="preserve" x="70" y="86" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Core 1</text>
+<rect x="110" y="66" width="76" height="44" rx="1" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="148.0" y="93.95" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" text-anchor="middle" fill="#1F2933" font-weight="700">A</text>
+<rect x="186" y="66" width="76" height="44" rx="1" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="224.0" y="93.95" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" text-anchor="middle" fill="#1F2933" font-weight="700">B</text>
+<rect x="262" y="66" width="76" height="44" rx="1" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="300.0" y="93.95" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" text-anchor="middle" fill="#1F2933" font-weight="700">C</text>
+<rect x="338" y="66" width="76" height="44" rx="1" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="376.0" y="93.95" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" text-anchor="middle" fill="#1F2933" font-weight="700">A</text>
+<rect x="414" y="66" width="76" height="44" rx="1" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="452.0" y="93.95" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" text-anchor="middle" fill="#1F2933" font-weight="700">B</text>
+<rect x="490" y="66" width="76" height="44" rx="1" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="528.0" y="93.95" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" text-anchor="middle" fill="#1F2933" font-weight="700">A</text>
+<rect x="566" y="66" width="76" height="44" rx="1" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="604.0" y="93.95" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" text-anchor="middle" fill="#1F2933" font-weight="700">C</text>
+<rect x="642" y="66" width="76" height="44" rx="1" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="680.0" y="93.95" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="17" text-anchor="middle" fill="#1F2933" font-weight="700">B</text>
+<line x1="110" y1="122" x2="720" y2="122" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="720.0,122.0 711.9,125.9 711.9,118.1" fill="#5B6672"/>
+<text xml:space="preserve" x="415" y="142" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">time</text>
+<text xml:space="preserve" x="380" y="176" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933">Each turn lasts a few milliseconds, so it feels as if all three run at once.</text>
+<text xml:space="preserve" x="380" y="204" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#5B6672">Switching between them is called a context switch. It has a small cost.</text>
+</svg>

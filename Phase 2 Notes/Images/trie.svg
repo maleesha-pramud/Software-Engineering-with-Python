@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="330" viewBox="0 0 620 330">
+<rect x="1" y="1" width="618" height="328" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="310.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">A trie: words that share a start share a path</text>
+<line x1="284.50332249214233" y1="79.15712761827953" x2="206.357604036072" y2="125.33414306959382" stroke="#5B6672" stroke-width="1.8"/>
+<line x1="315.82725539766193" y1="78.57309667373355" x2="403.2934526358013" y2="125.9506201777257" stroke="#5B6672" stroke-width="1.8"/>
+<line x1="190.0" y1="153.0" x2="190.0" y2="181.0" stroke="#5B6672" stroke-width="1.8"/>
+<line x1="420.0" y1="153.0" x2="420.0" y2="181.0" stroke="#5B6672" stroke-width="1.8"/>
+<line x1="176.02994799790721" y1="211.35066725170037" x2="124.74616600220904" y2="253.01874012320516" stroke="#5B6672" stroke-width="1.8"/>
+<line x1="203.97005200209279" y1="211.35066725170037" x2="255.25383399779096" y2="253.01874012320516" stroke="#5B6672" stroke-width="1.8"/>
+<line x1="420.0" y1="218.0" x2="420.0" y2="246.0" stroke="#5B6672" stroke-width="1.8"/>
+<circle cx="300" cy="70" r="18" fill="#EEF0F3" stroke="#77808C" stroke-width="1.8"/>
+<text xml:space="preserve" x="300" y="74.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">•</text>
+<circle cx="190" cy="135" r="18" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="190" y="139.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">c</text>
+<circle cx="420" cy="135" r="18" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="420" y="139.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">d</text>
+<circle cx="190" cy="200" r="18" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="190" y="204.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">a</text>
+<circle cx="420" cy="200" r="18" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="420" y="204.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">o</text>
+<circle cx="110" cy="265" r="18" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.8"/>
+<text xml:space="preserve" x="110" y="269.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">t</text>
+<circle cx="270" cy="265" r="18" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.8"/>
+<text xml:space="preserve" x="270" y="269.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">r</text>
+<circle cx="420" cy="265" r="18" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.8"/>
+<text xml:space="preserve" x="420" y="269.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">g</text>
+<text xml:space="preserve" x="110" y="303" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">cat</text>
+<text xml:space="preserve" x="270" y="303" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">car</text>
+<text xml:space="preserve" x="420" y="303" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">dog</text>
+</svg>

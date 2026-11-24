@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230">
+<rect x="1" y="1" width="758" height="228" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="380.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Liskov Substitution: a child must work wherever its parent does</text>
+<rect x="60" y="76" width="200" height="48" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="160.0" y="104.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Rectangle</text>
+<rect x="60" y="160" width="200" height="48" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="160.0" y="188.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Square</text>
+<line x1="160" y1="160" x2="160" y2="126" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="160.0,126.0 163.9,134.1 156.1,134.1" fill="#5B6672"/>
+<text xml:space="preserve" x="300" y="95" font-family="Consolas,Menlo,monospace" font-size="13" text-anchor="start" fill="#1F2933">set_width(5), set_height(2)</text>
+<text xml:space="preserve" x="300" y="122" font-family="Consolas,Menlo,monospace" font-size="13" text-anchor="start" fill="#2E8B57">code expects area() == 10</text>
+<text xml:space="preserve" x="300" y="170" font-family="Consolas,Menlo,monospace" font-size="13" text-anchor="start" fill="#1F2933">Square keeps both sides equal</text>
+<text xml:space="preserve" x="300" y="197" font-family="Consolas,Menlo,monospace" font-size="13" text-anchor="start" fill="#C94343">so area() == 4: promise broken</text>
+</svg>

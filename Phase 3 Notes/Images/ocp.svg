@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="250" viewBox="0 0 760 250">
+<rect x="1" y="1" width="758" height="248" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="380.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Open/Closed: add new behaviour without editing old code</text>
+<text xml:space="preserve" x="190" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#C94343" font-weight="700">Before: every change edits this</text>
+<rect x="40" y="76" width="300" height="130" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="60" y="104" font-family="Consolas,Menlo,monospace" font-size="13" text-anchor="start" fill="#1F2933">if type == &#x27;card&#x27;: ...</text>
+<text xml:space="preserve" x="60" y="130" font-family="Consolas,Menlo,monospace" font-size="13" text-anchor="start" fill="#1F2933">elif type == &#x27;cash&#x27;: ...</text>
+<text xml:space="preserve" x="60" y="156" font-family="Consolas,Menlo,monospace" font-size="13" text-anchor="start" fill="#1F2933">elif type == &#x27;crypto&#x27;: ...</text>
+<text xml:space="preserve" x="60" y="182" font-family="Consolas,Menlo,monospace" font-size="13" text-anchor="start" fill="#1F2933"># keeps growing</text>
+<text xml:space="preserve" x="570" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#2E8B57" font-weight="700">After: new classes plug in</text>
+<rect x="480" y="76" width="180" height="44" rx="6" fill="#EAE3F8" stroke="#7452B8" stroke-width="1.6"/>
+<text xml:space="preserve" x="570.0" y="102.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Payment</text>
+<rect x="410" y="162" width="100" height="44" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="460.0" y="188.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Card</text>
+<line x1="460" y1="162" x2="570" y2="122" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="570.0,122.0 563.7,128.4 561.0,121.1" fill="#5B6672"/>
+<rect x="520" y="162" width="100" height="44" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="570.0" y="188.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Cash</text>
+<line x1="570" y1="162" x2="570" y2="122" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="570.0,122.0 573.9,130.1 566.1,130.1" fill="#5B6672"/>
+<rect x="630" y="162" width="100" height="44" rx="6" fill="#FFF4C2" stroke="#B58900" stroke-width="1.6"/>
+<text xml:space="preserve" x="680.0" y="188.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Crypto</text>
+<line x1="680" y1="162" x2="570" y2="122" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="570.0,122.0 579.0,121.1 576.3,128.4" fill="#5B6672"/>
+<text xml:space="preserve" x="570" y="228" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">Yellow is new. Nothing else changed.</text>
+</svg>

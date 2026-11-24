@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="220" viewBox="0 0 720 220">
+<rect x="1" y="1" width="718" height="218" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="360.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">An index works like the index at the back of a book</text>
+<text xml:space="preserve" x="190" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#C94343" font-weight="700">No index: read every page</text>
+<rect x="40" y="80" width="26" height="70" rx="2" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<rect x="70" y="80" width="26" height="70" rx="2" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<rect x="100" y="80" width="26" height="70" rx="2" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<rect x="130" y="80" width="26" height="70" rx="2" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<rect x="160" y="80" width="26" height="70" rx="2" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<rect x="190" y="80" width="26" height="70" rx="2" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<rect x="220" y="80" width="26" height="70" rx="2" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<rect x="250" y="80" width="26" height="70" rx="2" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<rect x="280" y="80" width="26" height="70" rx="2" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<rect x="310" y="80" width="26" height="70" rx="2" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<line x1="52" y1="165" x2="325" y2="165" stroke="#C94343" stroke-width="1.8"/>
+<polygon points="325.0,165.0 316.9,168.9 316.9,161.1" fill="#C94343"/>
+<text xml:space="preserve" x="190" y="190" font-family="Consolas,Menlo,monospace" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">O(n)</text>
+<text xml:space="preserve" x="540" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#2E8B57" font-weight="700">With an index: jump there</text>
+<rect x="390" y="80" width="90" height="70" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="435.0" y="111.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">index</text>
+<text xml:space="preserve" x="435.0" y="130.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">Sam: p7</text>
+<rect x="510" y="80" width="26" height="70" rx="2" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<rect x="540" y="80" width="26" height="70" rx="2" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<rect x="570" y="80" width="26" height="70" rx="2" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<rect x="600" y="80" width="26" height="70" rx="2" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<rect x="630" y="80" width="26" height="70" rx="2" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<rect x="660" y="80" width="26" height="70" rx="2" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<line x1="480" y1="165" x2="615" y2="165" stroke="#2E8B57" stroke-width="1.8"/>
+<polygon points="615.0,165.0 606.9,168.9 606.9,161.1" fill="#2E8B57"/>
+<text xml:space="preserve" x="540" y="190" font-family="Consolas,Menlo,monospace" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">O(log n)</text>
+</svg>

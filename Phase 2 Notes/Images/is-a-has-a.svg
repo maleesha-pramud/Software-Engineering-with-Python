@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="240" viewBox="0 0 720 240">
+<rect x="1" y="1" width="718" height="238" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="360.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Inheritance says IS-A. Composition says HAS-A.</text>
+<text xml:space="preserve" x="190" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">Inheritance</text>
+<rect x="120" y="78" width="140" height="44" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="190.0" y="104.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Animal</text>
+<rect x="120" y="170" width="140" height="44" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="190.0" y="196.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Dog</text>
+<line x1="190" y1="170" x2="190" y2="124" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="190.0,124.0 193.9,132.1 186.1,132.1" fill="#5B6672"/>
+<text xml:space="preserve" x="200" y="152" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="start" fill="#1F2933" font-weight="700">is a</text>
+<text xml:space="preserve" x="530" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">Composition</text>
+<rect x="460" y="78" width="140" height="44" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="530.0" y="104.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Car</text>
+<rect x="380" y="170" width="130" height="44" rx="6" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="445.0" y="196.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Engine</text>
+<rect x="550" y="170" width="130" height="44" rx="6" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="615.0" y="196.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Wheels</text>
+<line x1="510" y1="122" x2="445" y2="170" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="445.0,170.0 449.2,162.0 453.8,168.3" fill="#5B6672"/>
+<line x1="550" y1="122" x2="615" y2="170" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="615.0,170.0 606.2,168.3 610.8,162.0" fill="#5B6672"/>
+<text xml:space="preserve" x="465" y="142" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="end" fill="#1F2933" font-weight="700">has</text>
+<text xml:space="preserve" x="595" y="142" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="start" fill="#1F2933" font-weight="700">has</text>
+</svg>

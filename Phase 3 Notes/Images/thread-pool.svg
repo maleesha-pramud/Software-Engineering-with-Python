@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="258" viewBox="0 0 760 258">
+<rect x="1" y="1" width="758" height="256" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="380.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">A thread pool: a fixed team of workers takes jobs from a queue</text>
+<rect x="30" y="90" width="56" height="56" rx="6" fill="#FFF4C2" stroke="#B58900" stroke-width="1.6"/>
+<text xml:space="preserve" x="58.0" y="122.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">job5</text>
+<rect x="92" y="90" width="56" height="56" rx="6" fill="#FFF4C2" stroke="#B58900" stroke-width="1.6"/>
+<text xml:space="preserve" x="120.0" y="122.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">job4</text>
+<rect x="154" y="90" width="56" height="56" rx="6" fill="#FFF4C2" stroke="#B58900" stroke-width="1.6"/>
+<text xml:space="preserve" x="182.0" y="122.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">job3</text>
+<rect x="216" y="90" width="56" height="56" rx="6" fill="#FFF4C2" stroke="#B58900" stroke-width="1.6"/>
+<text xml:space="preserve" x="244.0" y="122.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">job2</text>
+<rect x="278" y="90" width="56" height="56" rx="6" fill="#FFF4C2" stroke="#B58900" stroke-width="1.6"/>
+<text xml:space="preserve" x="306.0" y="122.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">job1</text>
+<text xml:space="preserve" x="180" y="76" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Queue of jobs</text>
+<text xml:space="preserve" x="180" y="170" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">Producers add jobs here</text>
+<rect x="470" y="62" width="130" height="46" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="535.0" y="89.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Worker 1</text>
+<line x1="345" y1="118" x2="468" y2="85" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="468.0,85.0 461.2,90.9 459.2,83.3" fill="#1F2933"/>
+<line x1="600" y1="85" x2="650" y2="85" stroke="#2E8B57" stroke-width="1.8"/>
+<polygon points="650.0,85.0 641.9,88.9 641.9,81.1" fill="#2E8B57"/>
+<rect x="470" y="116" width="130" height="46" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="535.0" y="143.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Worker 2</text>
+<line x1="345" y1="118" x2="468" y2="139" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="468.0,139.0 459.4,141.5 460.7,133.8" fill="#1F2933"/>
+<line x1="600" y1="139" x2="650" y2="139" stroke="#2E8B57" stroke-width="1.8"/>
+<polygon points="650.0,139.0 641.9,142.9 641.9,135.1" fill="#2E8B57"/>
+<rect x="470" y="170" width="130" height="46" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="535.0" y="197.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Worker 3</text>
+<line x1="345" y1="118" x2="468" y2="193" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="468.0,193.0 459.0,192.1 463.1,185.4" fill="#1F2933"/>
+<line x1="600" y1="193" x2="650" y2="193" stroke="#2E8B57" stroke-width="1.8"/>
+<polygon points="650.0,193.0 641.9,196.9 641.9,189.1" fill="#2E8B57"/>
+<text xml:space="preserve" x="700" y="124" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#2E8B57" font-weight="700">Done</text>
+<text xml:space="preserve" x="380" y="242" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933">Reusing threads is cheaper than making one per job, and it limits the load.</text>
+</svg>

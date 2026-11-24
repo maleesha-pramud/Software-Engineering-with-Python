@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="180" viewBox="0 0 640 180">
+<rect x="1" y="1" width="638" height="178" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="320.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Common trade: spend memory to save time</text>
+<rect x="40" y="66" width="240" height="86" rx="6" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="160.0" y="105.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Check every pair</text>
+<text xml:space="preserve" x="160.0" y="124.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">Time O(n²), space O(1)</text>
+<line x1="280" y1="109" x2="360" y2="109" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="360.0,109.0 351.9,112.9 351.9,105.1" fill="#5B6672"/>
+<text xml:space="preserve" x="320.0" y="103.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">add a set</text>
+<rect x="360" y="66" width="240" height="86" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="480.0" y="105.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Remember what you saw</text>
+<text xml:space="preserve" x="480.0" y="124.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">Time O(n), space O(n)</text>
+</svg>

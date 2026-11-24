@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230">
+<rect x="1" y="1" width="758" height="228" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="380.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">A mutex: only the holder of the key can enter</text>
+<rect x="290" y="70" width="180" height="110" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="380.0" y="121.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Critical section</text>
+<text xml:space="preserve" x="380.0" y="140.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">change shared data</text>
+<rect x="40" y="76" width="120" height="44" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="100.0" y="102.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Thread A</text>
+<line x1="160" y1="98" x2="288" y2="110" stroke="#2E8B57" stroke-width="2.6"/>
+<polygon points="288.0,110.0 279.6,113.1 280.3,105.3" fill="#2E8B57"/>
+<text xml:space="preserve" x="220" y="92" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#2E8B57" font-weight="700">has the key</text>
+<rect x="40" y="136" width="120" height="44" rx="6" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="100.0" y="162.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Thread B</text>
+<text xml:space="preserve" x="225" y="172" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#D97A1E" font-weight="700">waits</text>
+<line x1="160" y1="158" x2="262" y2="158" stroke="#D97A1E" stroke-width="1.8" stroke-dasharray="5 4"/>
+<polygon points="262.0,158.0 253.9,161.9 253.9,154.1" fill="#D97A1E"/>
+<line x1="262" y1="140" x2="262" y2="176" stroke="#C94343" stroke-width="3"/>
+<text xml:space="preserve" x="620" y="90" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Keep it short</text>
+<text xml:space="preserve" x="620" y="115" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">While one holds the lock,</text>
+<text xml:space="preserve" x="620" y="134" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">others must wait,</text>
+<text xml:space="preserve" x="620" y="153" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">so hold it briefly.</text>
+<text xml:space="preserve" x="380" y="212" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933">A semaphore is similar, but allows up to N holders at once.</text>
+</svg>

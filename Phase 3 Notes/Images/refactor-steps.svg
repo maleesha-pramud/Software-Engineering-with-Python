@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="220" viewBox="0 0 760 220">
+<rect x="1" y="1" width="758" height="218" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="380.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Refactoring: many tiny safe steps, tests green all the way</text>
+<circle cx="60" cy="100" r="28" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.8"/>
+<text xml:space="preserve" x="60" y="104.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">Test</text>
+<line x1="89" y1="100" x2="140" y2="100" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="140.0,100.0 131.9,103.9 131.9,96.1" fill="#1F2933"/>
+<circle cx="170" cy="100" r="28" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="170" y="104.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">Move</text>
+<line x1="199" y1="100" x2="250" y2="100" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="250.0,100.0 241.9,103.9 241.9,96.1" fill="#1F2933"/>
+<circle cx="280" cy="100" r="28" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.8"/>
+<text xml:space="preserve" x="280" y="104.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">Test</text>
+<line x1="309" y1="100" x2="360" y2="100" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="360.0,100.0 351.9,103.9 351.9,96.1" fill="#1F2933"/>
+<circle cx="390" cy="100" r="28" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="390" y="104.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">Move</text>
+<line x1="419" y1="100" x2="470" y2="100" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="470.0,100.0 461.9,103.9 461.9,96.1" fill="#1F2933"/>
+<circle cx="500" cy="100" r="28" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.8"/>
+<text xml:space="preserve" x="500" y="104.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">Test</text>
+<line x1="529" y1="100" x2="580" y2="100" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="580.0,100.0 571.9,103.9 571.9,96.1" fill="#1F2933"/>
+<circle cx="610" cy="100" r="28" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.8"/>
+<text xml:space="preserve" x="610" y="104.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">Done</text>
+<text xml:space="preserve" x="380" y="168" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933">If a test fails, you know that your last tiny change caused it.</text>
+<text xml:space="preserve" x="380" y="194" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#5B6672">Never mix refactoring and new features in the same commit.</text>
+</svg>

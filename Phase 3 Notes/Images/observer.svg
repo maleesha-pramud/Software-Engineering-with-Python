@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="262" viewBox="0 0 760 262">
+<rect x="1" y="1" width="758" height="260" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="380.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Observer: one event, and everyone who subscribed hears it</text>
+<rect x="50" y="90" width="200" height="70" rx="6" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="150.0" y="121.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Order placed</text>
+<text xml:space="preserve" x="150.0" y="140.0" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" fill="#5B6672">publisher</text>
+<rect x="470" y="60" width="220" height="44" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="580.0" y="86.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Send email</text>
+<line x1="250" y1="125" x2="468" y2="82" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="468.0,82.0 460.8,87.4 459.3,79.7" fill="#1F2933"/>
+<rect x="470" y="116" width="220" height="44" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="580.0" y="142.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Update stock</text>
+<line x1="250" y1="125" x2="468" y2="138" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="468.0,138.0 459.7,141.4 460.1,133.6" fill="#1F2933"/>
+<rect x="470" y="172" width="220" height="44" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="580.0" y="198.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Record analytics</text>
+<line x1="250" y1="125" x2="468" y2="194" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="468.0,194.0 459.1,195.3 461.5,187.8" fill="#1F2933"/>
+<text xml:space="preserve" x="380" y="246" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933">The publisher doesn&#x27;t know who&#x27;s listening, so adding a listener changes nothing.</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="180" viewBox="0 0 780 180">
+<rect x="1" y="1" width="778" height="178" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="390.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">HTTP status codes: the first digit tells the story</text>
+<rect x="22" y="60" width="140" height="100" rx="6" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="92" y="96" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="22" text-anchor="middle" fill="#1F2933" font-weight="700">1xx</text>
+<text xml:space="preserve" x="92" y="122" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">Wait</text>
+<text xml:space="preserve" x="92" y="144" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">101</text>
+<rect x="172" y="60" width="140" height="100" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="242" y="96" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="22" text-anchor="middle" fill="#1F2933" font-weight="700">2xx</text>
+<text xml:space="preserve" x="242" y="122" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">Success</text>
+<text xml:space="preserve" x="242" y="144" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">200, 201</text>
+<rect x="322" y="60" width="140" height="100" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="392" y="96" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="22" text-anchor="middle" fill="#1F2933" font-weight="700">3xx</text>
+<text xml:space="preserve" x="392" y="122" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">Go elsewhere</text>
+<text xml:space="preserve" x="392" y="144" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">301, 304</text>
+<rect x="472" y="60" width="140" height="100" rx="6" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="542" y="96" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="22" text-anchor="middle" fill="#1F2933" font-weight="700">4xx</text>
+<text xml:space="preserve" x="542" y="122" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">You made an error</text>
+<text xml:space="preserve" x="542" y="144" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">404, 401</text>
+<rect x="622" y="60" width="140" height="100" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="692" y="96" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="22" text-anchor="middle" fill="#1F2933" font-weight="700">5xx</text>
+<text xml:space="preserve" x="692" y="122" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">Server failed</text>
+<text xml:space="preserve" x="692" y="144" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">500, 503</text>
+</svg>

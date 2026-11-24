@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="352" viewBox="0 0 760 352">
+<rect x="1" y="1" width="758" height="350" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="380.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">The memory hierarchy: fast and small at the top</text>
+<text xml:space="preserve" x="620" y="58" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672" font-weight="700">If 1 ns were 2 seconds</text>
+<rect x="205.0" y="68" width="180" height="38" rx="2" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="295.0" y="91.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Registers: under 1 ns</text>
+<text xml:space="preserve" x="620" y="92" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933">1 second</text>
+<rect x="185.0" y="110" width="220" height="38" rx="2" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="295.0" y="133.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">L1 cache: about 1 ns</text>
+<text xml:space="preserve" x="620" y="134" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933">2 seconds</text>
+<rect x="160.0" y="152" width="270" height="38" rx="2" fill="#FFF4C2" stroke="#B58900" stroke-width="1.6"/>
+<text xml:space="preserve" x="295.0" y="175.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">L2 and L3 cache: 4 to 40 ns</text>
+<text xml:space="preserve" x="620" y="176" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933">1 minute</text>
+<rect x="120.0" y="194" width="350" height="38" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="295.0" y="217.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">RAM: about 100 ns</text>
+<text xml:space="preserve" x="620" y="218" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933">3 minutes</text>
+<rect x="80.0" y="236" width="430" height="38" rx="2" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="295.0" y="259.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">SSD: about 100 µs</text>
+<text xml:space="preserve" x="620" y="260" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933">2 days</text>
+<rect x="40.0" y="278" width="510" height="38" rx="2" fill="#EAE3F8" stroke="#7452B8" stroke-width="1.6"/>
+<text xml:space="preserve" x="295.0" y="301.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Hard disk: about 10 ms</text>
+<text xml:space="preserve" x="620" y="302" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933">8 months</text>
+<text xml:space="preserve" x="380" y="338" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">Rough figures. The ratios matter more than the exact numbers.</text>
+</svg>

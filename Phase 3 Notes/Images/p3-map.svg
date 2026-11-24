@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="370" viewBox="0 0 780 370">
+<rect x="1" y="1" width="778" height="368" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="390.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">Your Phase 3 journey</text>
+<text xml:space="preserve" x="24" y="54" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="start" fill="#5B6672" font-weight="700">Understand the machine</text>
+<rect x="24" y="60" width="136" height="40" rx="6" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="92.0" y="84.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">CPU and Hardware</text>
+<line x1="160" y1="80" x2="172" y2="80" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="172.0,80.0 163.9,83.9 163.9,76.1" fill="#5B6672"/>
+<rect x="172" y="60" width="136" height="40" rx="6" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="240.0" y="84.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Operating Systems</text>
+<line x1="308" y1="80" x2="320" y2="80" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="320.0,80.0 311.9,83.9 311.9,76.1" fill="#5B6672"/>
+<rect x="320" y="60" width="136" height="40" rx="6" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="388.0" y="84.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Concurrency</text>
+<line x1="456" y1="80" x2="468" y2="80" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="468.0,80.0 459.9,83.9 459.9,76.1" fill="#5B6672"/>
+<rect x="468" y="60" width="136" height="40" rx="6" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="536.0" y="84.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Memory</text>
+<text xml:space="preserve" x="24" y="124" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="start" fill="#5B6672" font-weight="700">Work like a professional</text>
+<rect x="24" y="130" width="136" height="40" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="92.0" y="154.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Lifecycle</text>
+<line x1="160" y1="150" x2="172" y2="150" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="172.0,150.0 163.9,153.9 163.9,146.1" fill="#5B6672"/>
+<rect x="172" y="130" width="136" height="40" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="240.0" y="154.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Code Reviews</text>
+<line x1="308" y1="150" x2="320" y2="150" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="320.0,150.0 311.9,153.9 311.9,146.1" fill="#5B6672"/>
+<rect x="320" y="130" width="136" height="40" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="388.0" y="154.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Refactoring</text>
+<text xml:space="preserve" x="24" y="194" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="start" fill="#5B6672" font-weight="700">Design software that lasts</text>
+<rect x="24" y="200" width="136" height="40" rx="6" fill="#EAE3F8" stroke="#7452B8" stroke-width="1.6"/>
+<text xml:space="preserve" x="92.0" y="224.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">SOLID</text>
+<line x1="160" y1="220" x2="172" y2="220" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="172.0,220.0 163.9,223.9 163.9,216.1" fill="#5B6672"/>
+<rect x="172" y="200" width="136" height="40" rx="6" fill="#EAE3F8" stroke="#7452B8" stroke-width="1.6"/>
+<text xml:space="preserve" x="240.0" y="224.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Design Patterns</text>
+<line x1="308" y1="220" x2="320" y2="220" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="320.0,220.0 311.9,223.9 311.9,216.1" fill="#5B6672"/>
+<rect x="320" y="200" width="136" height="40" rx="6" fill="#EAE3F8" stroke="#7452B8" stroke-width="1.6"/>
+<text xml:space="preserve" x="388.0" y="224.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">API Design</text>
+<text xml:space="preserve" x="24" y="264" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="start" fill="#5B6672" font-weight="700">Ship it safely</text>
+<rect x="24" y="270" width="136" height="40" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="92.0" y="294.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Security</text>
+<line x1="160" y1="290" x2="172" y2="290" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="172.0,290.0 163.9,293.9 163.9,286.1" fill="#5B6672"/>
+<rect x="172" y="270" width="136" height="40" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="240.0" y="294.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">OWASP Top 10</text>
+<line x1="308" y1="290" x2="320" y2="290" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="320.0,290.0 311.9,293.9 311.9,286.1" fill="#5B6672"/>
+<rect x="320" y="270" width="136" height="40" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="388.0" y="294.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Integration Tests</text>
+<line x1="456" y1="290" x2="468" y2="290" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="468.0,290.0 459.9,293.9 459.9,286.1" fill="#5B6672"/>
+<rect x="468" y="270" width="136" height="40" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="536.0" y="294.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Docker</text>
+<line x1="604" y1="290" x2="616" y2="290" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="616.0,290.0 607.9,293.9 607.9,286.1" fill="#5B6672"/>
+<rect x="616" y="270" width="136" height="40" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="684.0" y="294.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">CI and CD</text>
+<rect x="24" y="325" width="136" height="34" rx="6" fill="#FFF4C2" stroke="#B58900" stroke-width="1.6"/>
+<text xml:space="preserve" x="92.0" y="346.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">Database Design</text>
+<line x1="160" y1="342" x2="172" y2="342" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="172.0,342.0 163.9,345.9 163.9,338.1" fill="#5B6672"/>
+<rect x="172" y="325" width="136" height="34" rx="6" fill="#FFF4C2" stroke="#B58900" stroke-width="1.6"/>
+<text xml:space="preserve" x="240.0" y="346.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">Indexing</text>
+<line x1="308" y1="342" x2="320" y2="342" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="320.0,342.0 311.9,345.9 311.9,338.1" fill="#5B6672"/>
+<rect x="320" y="325" width="136" height="34" rx="6" fill="#FFF4C2" stroke="#B58900" stroke-width="1.6"/>
+<text xml:space="preserve" x="388.0" y="346.2" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#1F2933" font-weight="700">Transactions</text>
+<line x1="456" y1="342" x2="468" y2="342" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="468.0,342.0 459.9,345.9 459.9,338.1" fill="#5B6672"/>
+<rect x="468" y="325" width="284" height="34" rx="6" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="610.0" y="346.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Final project: production-ready API</text>
+</svg>

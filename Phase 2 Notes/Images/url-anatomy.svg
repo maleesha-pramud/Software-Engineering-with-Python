@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="200" viewBox="0 0 780 200">
+<rect x="1" y="1" width="778" height="198" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="390.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">The parts of a URL</text>
+<rect x="28" y="70" width="101.2" height="46" rx="2" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="78.6" y="98.25" font-family="Consolas,Menlo,monospace" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">https://</text>
+<line x1="78.6" y1="142" x2="78.6" y2="120" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="78.6,120.0 82.5,128.1 74.7,128.1" fill="#5B6672"/>
+<text xml:space="preserve" x="78.6" y="160" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">scheme</text>
+<rect x="129.2" y="70" width="174.0" height="46" rx="2" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="216.2" y="98.25" font-family="Consolas,Menlo,monospace" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">www.example.com</text>
+<line x1="216.2" y1="142" x2="216.2" y2="120" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="216.2,120.0 220.1,128.1 212.3,128.1" fill="#5B6672"/>
+<text xml:space="preserve" x="216.2" y="160" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">host</text>
+<rect x="303.2" y="70" width="59.6" height="46" rx="2" fill="#EEF0F3" stroke="#77808C" stroke-width="1.6"/>
+<text xml:space="preserve" x="333.0" y="98.25" font-family="Consolas,Menlo,monospace" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">:443</text>
+<line x1="333.0" y1="142" x2="333.0" y2="120" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="333.0,120.0 336.9,128.1 329.1,128.1" fill="#5B6672"/>
+<text xml:space="preserve" x="333.0" y="160" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">port</text>
+<rect x="362.8" y="70" width="111.60000000000001" height="46" rx="2" fill="#FDE9D3" stroke="#D97A1E" stroke-width="1.6"/>
+<text xml:space="preserve" x="418.6" y="98.25" font-family="Consolas,Menlo,monospace" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">/books/42</text>
+<line x1="418.6" y1="142" x2="418.6" y2="120" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="418.6,120.0 422.5,128.1 414.7,128.1" fill="#5B6672"/>
+<text xml:space="preserve" x="418.6" y="160" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">path</text>
+<rect x="474.40000000000003" y="70" width="90.8" height="46" rx="2" fill="#EAE3F8" stroke="#7452B8" stroke-width="1.6"/>
+<text xml:space="preserve" x="519.8000000000001" y="98.25" font-family="Consolas,Menlo,monospace" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">?page=2</text>
+<line x1="519.8000000000001" y1="142" x2="519.8000000000001" y2="120" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="519.8,120.0 523.7,128.1 515.9,128.1" fill="#5B6672"/>
+<text xml:space="preserve" x="519.8000000000001" y="160" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">query</text>
+<rect x="565.2" y="70" width="101.2" height="46" rx="2" fill="#FFF4C2" stroke="#B58900" stroke-width="1.6"/>
+<text xml:space="preserve" x="615.8000000000001" y="98.25" font-family="Consolas,Menlo,monospace" font-size="15" text-anchor="middle" fill="#1F2933" font-weight="700">#reviews</text>
+<line x1="615.8000000000001" y1="142" x2="615.8000000000001" y2="120" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="615.8,120.0 619.7,128.1 611.9,128.1" fill="#5B6672"/>
+<text xml:space="preserve" x="615.8000000000001" y="160" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">fragment</text>
+</svg>

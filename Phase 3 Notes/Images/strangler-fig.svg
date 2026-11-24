@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="290" viewBox="0 0 780 290">
+<rect x="1" y="1" width="778" height="288" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="390.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">The strangler fig: replace an old system piece by piece</text>
+<text xml:space="preserve" x="140" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Start</text>
+<rect x="70" y="74" width="140" height="34" rx="6" fill="#FFF4C2" stroke="#B58900" stroke-width="1.6"/>
+<text xml:space="preserve" x="140.0" y="95.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Router</text>
+<rect x="70" y="140" width="140" height="34" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="140.0" y="161.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Search</text>
+<rect x="70" y="180" width="140" height="34" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="140.0" y="201.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Orders</text>
+<rect x="70" y="220" width="140" height="34" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="140.0" y="241.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Users</text>
+<line x1="140" y1="108" x2="140" y2="138" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="140.0,138.0 136.1,129.9 143.9,129.9" fill="#1F2933"/>
+<text xml:space="preserve" x="390" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Migrating</text>
+<rect x="320" y="74" width="140" height="34" rx="6" fill="#FFF4C2" stroke="#B58900" stroke-width="1.6"/>
+<text xml:space="preserve" x="390.0" y="95.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Router</text>
+<rect x="320" y="140" width="140" height="34" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="390.0" y="161.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Search</text>
+<rect x="320" y="180" width="140" height="34" rx="6" fill="#FBE0E0" stroke="#C94343" stroke-width="1.6"/>
+<text xml:space="preserve" x="390.0" y="201.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Orders</text>
+<rect x="320" y="220" width="140" height="34" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="390.0" y="241.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Users</text>
+<line x1="390" y1="108" x2="390" y2="138" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="390.0,138.0 386.1,129.9 393.9,129.9" fill="#1F2933"/>
+<text xml:space="preserve" x="640" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Finished</text>
+<rect x="570" y="74" width="140" height="34" rx="6" fill="#FFF4C2" stroke="#B58900" stroke-width="1.6"/>
+<text xml:space="preserve" x="640.0" y="95.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Router</text>
+<rect x="570" y="140" width="140" height="34" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="640.0" y="161.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Search</text>
+<rect x="570" y="180" width="140" height="34" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="640.0" y="201.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Orders</text>
+<rect x="570" y="220" width="140" height="34" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="640.0" y="241.55" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933" font-weight="700">Users</text>
+<line x1="640" y1="108" x2="640" y2="138" stroke="#1F2933" stroke-width="1.8"/>
+<polygon points="640.0,138.0 636.1,129.9 643.9,129.9" fill="#1F2933"/>
+<text xml:space="preserve" x="390" y="280" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" text-anchor="middle" fill="#1F2933">Red is old, green is new. Users notice nothing, and you can stop or roll back at any point.</text>
+</svg>

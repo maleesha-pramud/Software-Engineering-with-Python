@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="260" viewBox="0 0 720 260">
+<rect x="1" y="1" width="718" height="258" rx="12" fill="#FBFCFD" stroke="#D5DAE0"/>
+<text xml:space="preserve" x="360.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" fill="#1F2933" font-weight="700">A function gives each input exactly one output</text>
+<text xml:space="preserve" x="160" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Function: allowed</text>
+<rect x="50" y="80" width="70" height="36" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="85.0" y="102.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Sam</text>
+<rect x="50" y="130" width="70" height="36" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="85.0" y="152.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Priya</text>
+<rect x="50" y="180" width="70" height="36" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="85.0" y="202.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Ali</text>
+<rect x="200" y="80" width="70" height="36" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="235.0" y="102.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">A</text>
+<rect x="200" y="130" width="70" height="36" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="235.0" y="152.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">B</text>
+<rect x="200" y="180" width="70" height="36" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="235.0" y="202.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">C</text>
+<line x1="120" y1="98" x2="200" y2="148" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="200.0,148.0 191.1,147.0 195.2,140.4" fill="#5B6672"/>
+<line x1="120" y1="148" x2="200" y2="98" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="200.0,98.0 195.2,105.6 191.1,99.0" fill="#5B6672"/>
+<line x1="120" y1="198" x2="200" y2="148" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="200.0,148.0 195.2,155.6 191.1,149.0" fill="#5B6672"/>
+<text xml:space="preserve" x="540" y="62" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Not a function</text>
+<rect x="430" y="80" width="70" height="36" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="465.0" y="102.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Sam</text>
+<rect x="430" y="130" width="70" height="36" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="465.0" y="152.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Priya</text>
+<rect x="430" y="180" width="70" height="36" rx="6" fill="#DCEBFA" stroke="#2F6FB0" stroke-width="1.6"/>
+<text xml:space="preserve" x="465.0" y="202.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">Ali</text>
+<rect x="580" y="80" width="70" height="36" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="615.0" y="102.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">A</text>
+<rect x="580" y="130" width="70" height="36" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="615.0" y="152.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">B</text>
+<rect x="580" y="180" width="70" height="36" rx="6" fill="#DDF3E4" stroke="#2E8B57" stroke-width="1.6"/>
+<text xml:space="preserve" x="615.0" y="202.9" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#1F2933" font-weight="700">C</text>
+<line x1="500" y1="98" x2="580" y2="98" stroke="#C94343" stroke-width="1.8"/>
+<polygon points="580.0,98.0 571.9,101.9 571.9,94.1" fill="#C94343"/>
+<line x1="500" y1="98" x2="580" y2="198" stroke="#C94343" stroke-width="1.8"/>
+<polygon points="580.0,198.0 571.9,194.1 578.0,189.2" fill="#C94343"/>
+<line x1="500" y1="148" x2="580" y2="148" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="580.0,148.0 571.9,151.9 571.9,144.1" fill="#5B6672"/>
+<line x1="500" y1="198" x2="580" y2="148" stroke="#5B6672" stroke-width="1.8"/>
+<polygon points="580.0,148.0 575.2,155.6 571.1,149.0" fill="#5B6672"/>
+<text xml:space="preserve" x="160" y="245" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#5B6672">Each student has one grade. Sharing a grade is fine.</text>
+<text xml:space="preserve" x="540" y="245" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="12" text-anchor="middle" fill="#C94343">Sam has two grades, so this is not a function.</text>
+</svg>
